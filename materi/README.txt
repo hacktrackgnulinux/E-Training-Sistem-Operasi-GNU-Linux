@@ -1,5 +1,5 @@
 01  Pertemuan Minggu 1  (3x Pertemuan)
-    Tanggal Pertemuan : 2 Maret 4 Maret 6 Maret 2021 (Pukul 08:00 - 09:30)
+    Tanggal Pertemuan : 2 Maret 4 Maret 6 Maret 2021 (Pukul 20:00 - 21:30)
     Materi : Pengantar Sistem Operasi
              - Sistem Operasi
                   GNU
@@ -13,7 +13,7 @@
             Subject E-Mail 'Laporan Mengenai Distribusi GNU/Linux'
     
 02  Pertemuan Minggu 2  (3x Pertemuan)
-    Tanggal Pertemuan : 8 Maret 10 Maret 12 Maret 2021 (Pukul 08:00 - 09:30)
+    Tanggal Pertemuan : 8 Maret 10 Maret 12 Maret 2021 (Pukul 20:00 - 21:30)
     Materi : Pengetahuan Umum Installasi
              - Pengenalan Hardisk
                   Tabel Satuan Kapasitas Penyimpanan
