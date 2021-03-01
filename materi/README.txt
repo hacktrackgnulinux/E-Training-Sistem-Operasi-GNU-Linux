@@ -9,7 +9,7 @@
             Sample : Laporan Ubuntu (Isinya Sejarah Ubuntu dan Informasinya Yang Terkait)
             
             Minimal 2 Halaman (Judul & Pembahasan) Format Bebas. (.txt .pdf .odt .md dll)
-            Dikirimkan Via E-Mail hacktracklinux@yahoo.com
+            Dikirimkan Via E-Mail 'dindin_hernawan@yahoo.com'
             Subject E-Mail 'Laporan Mengenai Distribusi GNU/Linux'
     
 02  Pertemuan Minggu 2  (3x Pertemuan)
@@ -25,5 +25,5 @@
             Sample : Laporan GPT & MBR (Isinya Mengenai GPT, MBR dan Informasinya Yang Terkait)
             
             Minimal 2 Halaman (Judul & Pembahasan) Format Bebas. (.txt .pdf .odt .md dll)
-            Dikirimkan Via E-Mail hacktracklinux@yahoo.com
+            Dikirimkan Via E-Mail 'dindin_hernawan@yahoo.com'
             Subject E-Mail 'Laporan Pengetahuan Umum Installasi'
