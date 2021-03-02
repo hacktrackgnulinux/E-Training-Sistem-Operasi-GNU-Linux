@@ -1,0 +1,26 @@
+/**
+Informasi :
+Pertemuan 01/01
+Acara Akan Dimulai Hari Ini
+Pukul : 08:00 - 09:30 Malam
+
+Persiapan yang harus disiapkan : 
+- Aktif Telegram
+- Saling Menyapa
+- Perkenalan Pemateri
+- Penyampaian Materi
+- Penugasan Laporan Kegiatan
+- Diskusi Mengenai Laporan
+- Pengumpulan Laporan guna sebagai syarat mengikuti
+  Materi Selanjutnya.
+
+Tujuan Pengumpulan Laporan :
+- Agar mengenal Operating Sistem yang digunakan saat ini.
+- Menambah analisa dan melatih mengenali sistem operasi secara
+  individual.
+- Melatih menggunkan aplikasi2 yang ada di operating sistem saat ini
+  dalam penyusunan laporan.
+- Melatih dalam melakukan kegiatan pengiriman data melalui e-mail.
+
+
+**/
