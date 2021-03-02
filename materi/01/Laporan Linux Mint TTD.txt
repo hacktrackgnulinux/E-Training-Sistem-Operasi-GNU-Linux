@@ -1,0 +1,61 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Laporan Sistem Operasi Linux Mint
+Dibuat Oleh : Dindin Hernawan
+
+Digunakan Untuk Memenuhi Persyaratan dalam Mengikuti Sesi Berikutnya
+dalam E-Training Sistem Operasi GNU/Linux
+
+"$c2 MMMMMMMMMMMMMMMMMMMMMMMMMmds+.       				%s"
+"$c2 MMm----::-://////////////oymNMd+\`    				%s"
+"$c2 MMd      "$c1"/++                "$c2"-sNMd:   	%s"
+"$c2 MMNso/\`  "$c1"dMM    \`.::-. .-::.\` "$c2".hMN:  	%s"
+"$c2 ddddMMh  "$c1"dMM   :hNMNMNhNMNMNh: "$c2"\`NMm  	%s"
+"$c2     NMm  "$c1"dMM  .NMN/-+MMM+-/NMN\` "$c2"dMM  	%s"
+"$c2     NMm  "$c1"dMM  -MMm  \`MMM   dMM. "$c2"dMM  	%s"
+"$c2     NMm  "$c1"dMM  -MMm  \`MMM   dMM. "$c2"dMM  	%s"
+"$c2     NMm  "$c1"dMM  .mmd  \`mmm   yMM. "$c2"dMM  	%s"
+"$c2     NMm  "$c1"dMM\`  ..\`   ...   ydm. "$c2"dMM  	%s"
+"$c2     hMM- "$c1"+MMd/-------...-:sdds  "$c2"dMM  	%s"
+"$c2     -NMm- "$c1":hNMNNNmdddddddddy/\`  "$c2"dMM  	%s"
+"$c2      -dMNs-"$c1"\`\`-::::-------.\`\`    "$c2"dMM  %s"
+"$c2       \`/dMNmy+/:-------------:/yMMM  %s"
+"$c2          ./ydNMMMMMMMMMMMMMMMMMMMMM  %s"
+"$c2             \.MMMMMMMMMMMMMMMMMMM    %s"
+"                                      %s")
+
+	Linux Mint adalah sistem operasi Linux yang merupakan suatu distribusi Linux
+dengan basis Debian dan Ubuntu, dengan Linux Mint Debian Edition (LMDE) sebagai 
+suatu alternatif yang sepenuhnya berbasis Debian. Aplikasi yang dapat berjalan di
+Ubuntu, juga bisa berjalan pada Linux Mint. 
+
+	Walaupun inti dari Linux Mint adalah Ubuntu, Linux Mint hadir dengan tampilan 
+yang berbeda dengan Ubuntu. Distribusi ini dibuat oleh Clement Lefebvre, dan di-
+kembangkan secara aktif oleh tim dari Linux Mint maupun komunitas yang ada di 
+dalamnya. Perusahaan dan pengguna perorangan yang menggunakan sistem operasi Linux 
+Mint bertindak sebagai donatur, sponsor, dan mitra distribusi ini. Linux Mint ber-
+gantung pada umpan balik pengguna untuk membuat berbagai keputusan dan mengarahkan 
+pengembangannya. Blog resminya seringkali memuat diskusi di mana para pengguna di-
+minta untuk menyuarakan pendapat mereka tentang fitur-fitur terbaru atau keputusan
+yang diterapkan untuk rilis mendatang. Semua gagaasan dapat disampaikan, dikomentari
+dan dinilai oleh para pengguna melalui Situs Komunitas Linux Mint. Komunitas para 
+pengguna Linux Mint Clement Lefebvre menggunakan Launchpad untuk berpartisipasi dalam 
+penerjemahan sistem operasi ini dan pelaporan bug.
+
+	Pengembangan yang paling asing dilakukan dengan Python dan diorganisir secara daring
+pada GitHub, sehingga mudah bagi para pengembang untuk menyediakan tambalan, menerapkan
+fitur-fitur tambahan atau bahkan melakukan pencabangan sub-proyek Linux Mint (sebagai
+contohnya menu Linux Mint diporta ke Fedora). Dalam setiap rilisnya, beragam fitur di-
+tambahkan yang mana merupakan hasil pengembangan komunitas tersebut. Pada Linux Mint 9 
+misalnya, kemampuan untuk menyunting butir menu adalah suatu fitur yang merupakan kon-
+tribusi seorang pengguna Linux Mint.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iJwEAQECAAYFAmA+NcUACgkQTtsL95Wc3dG99gQAjzg0AppDytwgKF7nmvHOaYUa
+ybCUKdBf4e4qa0L+O28Vwq9xrrc0hYtdQYL6yB2wMCE808B2pyhONnaL+5Hi6ywU
+XK4L1VRxFp3NLaYGHsBP21AHOCfXWITLB6FpJWuYasu/5rpW/ZC/gwrq3XsOi28p
+X2sAqODYoiirBqGjzYw=
+=8cuf
+-----END PGP SIGNATURE-----

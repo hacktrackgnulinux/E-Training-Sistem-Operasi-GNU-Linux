@@ -1,0 +1,1039 @@
+
+<==== START RECORD LOG CHAT ====>
+ET - GL Aditya Nataprawira
+Hadir
+Dindin Hernawan
+admin
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang di acara
+Elektronik Training Sistem Operasi GNU/Linux
+ET - GL Fajar Alfansyah
+Waalaikum salam mas
+ET - GL Akbar
+Waalaikumsalam
+ET - GL admiral Yudha
+Walaikum salam
+ET - GL Bayu Setyaji
+wa'alaikumsalam
+ET - GT Denny Sinaga
+Selamat malam mas
+ET - GL M.Yais
+wa'alaikumsalam
+ET - GL zenalarifin
+Waalaikumsalam mas
+ET - GL akutagawaxyz
+Waalaikumussalam wr wb
+ET - GL Fihan Dilan
+waalaikumsalam
+ET - GL Anonymous
+waalaikum salam
+ET - GL Aditya Nataprawira
+Waalaikumsalam wr wb
+KGPLI - Firman Fathoni
+admin
+Wa'alaikumsalam Wr. Wb.
+ET - GL Arip Id
+Waalaikumsalam
+ET - GL hito
+Waalaikumsalam
+ET - GL Lucky Kurniawan
+waalaikumsalam
+ET - GL Relarizky
+Waalaikumsalam
+ET - GL Eggyyyy
+Waalaikumsalam
+ET - GL D. Syafa’atul Anbiya
+waalaikum salam
+ET - GL Nanda Haya
+Waalaikumsallam
+Dindin Hernawan
+admin
+Perkenalan Nama Saya : Dindin Hernawan
+Tinggal di : Kota Banjar - Jawa Barat
+OS Yang dipakai Saat ini : HTGL Presistent Flashdisk 16GB
+Aktifitas Open Source : Mengembangkan Sistem Operasi GNU/Linux
+Distribusi Lokal Bernama Xenta OS Linux dan Aktifitas sebagai
+pengguna OS bertipe Linux serta influencher di sekitar aktifitas 
+saat ini.
+Pengalaman :
+- Membangun Operating Sistem GNU/Linux
+- Konsultan Membangun Operating Sistem GNU/Linux
+- Aktifis Penerjemah Aplikasi Open Source di Github dan Launchpad
+- Mengajar Kulgram mengenai topik Open Source
+- Aktifitas bersosial media berkaitan ilmu Komputer dan Open Source
+Dalam acara e-training ini juga ada rekan dalam developer dari KGPLI juga saudara Firman Fathoni waktu dan tempat dipersilahkan untuk memperkenalkan diri @FirmanFathoni  :)
+KGPLI - Firman Fathoni
+admin
+Selamat malam, nama saya Firman Fathoni, saya juga bagian dari tim dev Xenta OS
+
+OS yang dipakai saat ini : Parrot Sec OS, Tsurugi Linux, Xenta OS, CAINE, serta Windows 10 untuk keperluan lain
+
+disini saya akan membantu mas @dindinG41TR3 dalam sesi kulgram ini
+
+Salam kenal :pray:
+ET - GL hito
+Salam kenal mas:+1:
+ET - GL M.Yais
+salam kenal
+ET - GL D. Syafa’atul Anbiya
+Salaman kenal juga
+ET - GL Akbar
+salam kenal
+ET - GL Fajar Alfansyah
+Salam kenal masss
+ET - GL Arip Id
+Salam kenal juga mass
+ET - GL Fihan Dilan
+salam kenal mas
+ET - GL Anonymous
+salam kenal mas
+ET - GL akutagawaxyz
+KGPLI - Firman Fathoni
+Selamat malam, nama saya Firman Fathoni, saya juga bagian dari tim dev Xenta OS OS yang dipakai saat ini : Parrot Sec OS, Tsuru
+Salam kenal mas
+ET - GL admiral Yudha
+Salam kenal
+ET - GL zenalarifin
+KGPLI - Firman Fathoni
+Selamat malam, nama saya Firman Fathoni, saya juga bagian dari tim dev Xenta OS OS yang dipakai saat ini : Parrot Sec OS, Tsuru
+Mantap mas salam kenal :D
+ET - GL Hrlnzyh
+KGPLI - Firman Fathoni
+Selamat malam, nama saya Firman Fathoni, saya juga bagian dari tim dev Xenta OS OS yang dipakai saat ini : Parrot Sec OS, Tsuru
+okoklh man
+ET - GL Gio Santos
+KGPLI - Firman Fathoni
+Selamat malam, nama saya Firman Fathoni, saya juga bagian dari tim dev Xenta OS OS yang dipakai saat ini : Parrot Sec OS, Tsuru
+Salam kenal bang @@FirmanFathoni
+ET - GL Bayu Setyaji
+salam kenal mas
+ET - GL Fathi Shalahuddin
+Salam kenal mas
+ET - GL Risa
+Salam kenal
+ET - GL Lydz
+KGPLI - Firman Fathoni
+Selamat malam, nama saya Firman Fathoni, saya juga bagian dari tim dev Xenta OS OS yang dipakai saat ini : Parrot Sec OS, Tsuru
+Salam kenal
+ET - GL Nanda Haya
+Salam kenal bang
+Dindin Hernawan
+admin
+Baiklah saya kira sudah cukup dalam perkenalan diri ada pertanyaan ? dipersilahkan :) sebelum melanjutkan ke materinya
+ET - GL hito
+Mas pengalaman enak dan gk enak nya jadi developer apa:sweat_smile:
+ET - GL Relarizky
+Salam kenal mas:+1:
+ET - GL Arip Id
+Dindin Hernawan
+Baiklah saya kira sudah cukup dalam perkenalan diri ada pertanyaan ? dipersilahkan :) sebelum melanjutkan ke materinya
+Untuk berkecimpung di dunia open source terutama di OS nya, pengetahuan basic programming apa yang di gunakan?
+ET - GL Hrlnzyh
+Dindin Hernawan
+Baiklah saya kira sudah cukup dalam perkenalan diri ada pertanyaan ? dipersilahkan :) sebelum melanjutkan ke materinya
+anu bang pc saya udah terinstal os linux varian mint, single boot pula, kira kira masih bisa ikut course?
+ET - GL Fajar Alfansyah
+ET - GL Hrlnzyh
+anu bang pc saya udah terinstal os linux varian mint, single boot pula, kira kira masih bisa ikut course?
+Mantep nih Linux mint:v
+Dindin Hernawanadmin
+ET - GL hito
+Mas pengalaman enak dan gk enak nya jadi developer apa:sweat_smile:
+enaknya ya project nya kan dikerjakan hobie jadi lebih tidak ada tekanan menurut saya , ngga enaknya kayaknya ngga ada oh ya ada computer suka crash selama build os nya :).
+ET - GL Lydz
+Saya pake Manjaro
+Dindin Hernawanadmin
+ET - GL Arip Id
+Untuk berkecimpung di dunia open source terutama di OS nya, pengetahuan basic programming apa yang di gunakan?
+pertanyaan yang menarik menurut saya pribadi harus giat membuka situs github gitlab atau situs penyimpan project terbuka dengan begitu kita akan belajar mungkin mencoba pull request atau sebatas membaca2 sorce codenya :) bahasa dimulai bisa dari apa saja  semua aja hehe
+ET - GL Fihan Dilan
+Dindin Hernawan
+enaknya ya project nya kan dikerjakan hobie jadi lebih tidak ada tekanan menurut saya , ngga enaknya kayaknya ngga ada oh ya ada
+saya mau tanya dalam mendevelop sebuah OS kkusunya linux apakah ada bahasa pemrograman tertentu yang dipakai?
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+anu bang pc saya udah terinstal os linux varian mint, single boot pula, kira kira masih bisa ikut course?
+ya boleh kan sistem operasi GNU/Linux atau kernel bertipe linux , ngga harus spesifikasi os tertentu sih :)
+KGPLI - Firman Fathoniadmin
+ET - GL Fihan Dilan
+saya mau tanya dalam mendevelop sebuah OS kkusunya linux apakah ada bahasa pemrograman tertentu yang dipakai?
+Bahasa C lebih sering digunakan, terutama kernel development
+Namun untuk linux ricing/modifikasi tampilan bisa memakai bahasa lain seperti bash, python, dll
+ET - GL Bayu Setyaji
+apa aja si mas yang bisa kita lakukan dilinux ?
+ET - GL Hrlnzyh
+Dindin Hernawan
+ya boleh kan sistem operasi GNU/Linux atau kernel bertipe linux , ngga harus spesifikasi os tertentu sih :)
+makasih
+ET - GL Bayu Setyaji
+apa aja si mas yang bisa kita lakukan dilinux ?
+yang jelas akses yang kita lakuin rata rata menggunakan cli
+ET - GL Akbar
+Dindin Hernawan
+Baiklah saya kira sudah cukup dalam perkenalan diri ada pertanyaan ? dipersilahkan :) sebelum melanjutkan ke materinya
+untuk keperluan jaringan / networking lebih baik pakai os linux apa ya mas ?
+ET - GL Anonymous
+Dindin Hernawan
+Baiklah saya kira sudah cukup dalam perkenalan diri ada pertanyaan ? dipersilahkan :) sebelum melanjutkan ke materinya
+bagaimana cara menggunakan tools tools yang ada di linux ?
+Dindin Hernawanadmin
+ET - GL Bayu Setyaji
+apa aja si mas yang bisa kita lakukan dilinux ?
+banyak tentunya dan menurut saya lebih efektif ya karena os bertipe linux banyak sekali aplikasi yang mode cli dan menurut saya itu menarik :)
+ET - GL zenalarifin
+ET - GL Akbar
+untuk keperluan jaringan / networking lebih baik pakai os linux apa ya mas ?
+Ijin ngasih saran, Saran saya sih Kali, parrot atau Ubuntu udh cukup bagus mas
+ET - GL Fajar Alfansyah
+Dindin Hernawan
+banyak tentunya dan menurut saya lebih efektif ya karena os bertipe linux banyak sekali aplikasi yang mode cli dan menurut saya
+Di Ubuntu juga bisa kan mas?
+ET - GL Akbar
+ET - GL zenalarifin
+Ijin ngasih saran, Saran saya sih Kali, parrot atau Ubuntu udh cukup bagus mas
+terimakasih sarannya mas
+ET - GL M.Yais
+Dindin Hernawan
+Baiklah saya kira sudah cukup dalam perkenalan diri ada pertanyaan ? dipersilahkan :) sebelum melanjutkan ke materinya
+apa saja kekurangan dan kebebihan linux mas??
+ET - GL Hrlnzyh
+Dindin Hernawan
+banyak tentunya dan menurut saya lebih efektif ya karena os bertipe linux banyak sekali aplikasi yang mode cli dan menurut saya
+betul seperti saya yang buka xampp port nya nabrak 🤣
+ET - GL Lydz
+Apa aja sih mas kekurangan linux?
+ET - GL M.Yais
+ET - GL M.Yais
+apa saja kekurangan dan kebebihan linux mas??
+kelebihan
+ET - GL Fajar Alfansyah
+ET - GL Hrlnzyh
+betul seperti saya yang buka xampp port nya nabrak 🤣
+Saya engga mas
+ET - GL Anonymous
+ET - GL Hrlnzyh
+betul seperti saya yang buka xampp port nya nabrak 🤣
+bagaimana solusinya mas ? soalnya saya mengalami itu sekarang
+ET - GL Nanda Haya
+Maf mau tnya bang, sebelumnya abang saya nyuruh saya buat install linux trs dia nyaranin pake arch tapi blm saya coba buat install apakah instalnya sama kyk kali?
+ET - GL Anonymous
+portnya  xampp tabrakan dengan vm yang ada di laptopku
+ET - GL Hrlnzyh
+ET - GL Anonymous
+bagaimana solusinya mas ? soalnya saya mengalami itu sekarang
+sudo service apache2 stop 🤣
+ET - GL Anonymous
+nah
+Dindin Hernawanadmin
+ET - GL Nanda Haya
+Maf mau tnya bang, sebelumnya abang saya nyuruh saya buat install linux trs dia nyaranin pake arch tapi blm saya coba buat insta
+berbeda saran dicoba atau membuka arch wiki
+KGPLI - Firman Fathoni invited Manshur ID
+ET - GL Fajar Alfansyah
+ET - GL Anonymous
+portnya xampp tabrakan dengan vm yang ada di laptopku
+Saya engga tuh mas
+ET - GL Nanda Haya
+Dindin Hernawan
+berbeda saran dicoba atau membuka arch wiki
+Makasih bang
+KGPLI - Firman Fathoniadmin
+ET - GL Lydz
+Apa aja sih mas kekurangan linux?
+Mungkin untuk beberapa software ada yg belum sepenuhnya disupport untuk linux
+ET - GL Anonymous
+ET - GL Fajar Alfansyah
+Saya engga tuh mas
+lah, kok saya tabrakan, di port 443
+Dindin Hernawan
+admin
+rekan2 disini sangat antusias sekali sehingga sangat interaktif :) so lanjut ke materinya ya berhubung waktu terbatas :)
+ET - GL Anonymous
+siap kak
+ET - GL Fajar Alfansyah
+ET - GL Anonymous
+lah, kok saya tabrakan, di port 443
+Mungkin ada masalah kali mas
+ET - GL Akbar
+lanjut mas
+ET - GL Nanda Haya
+Kalo instal aplikasi dari windows di linux apakah bisa bang?
+ET - GL D. Syafa’atul Anbiya
+lanjut ke materi mas
+ET - GL hito
+ET - GL Anonymous
+bagaimana solusinya mas ? soalnya saya mengalami itu sekarang
+Ubah port aja bang klo di xampp di /opt/xampp/
+Saya lupa, soalnya gk pernah pke xampp pke lampp
+ET - GL Nanda Haya
+Kalo instal aplikasi dari windows di linux apakah bisa bang?
+Pke wine
+Dindin Hernawan
+admin
+oh ya dalam penyampaian materi ada sesi tanya jawab jadi di simak dulu ya sampai saya membuka sesi nya :)
+ET - GL hito
+ET - GL hito
+Pke wine
+Tpi gk semua support
+ET - GL Anonymous
+ET - GL hito
+Ubah port aja bang klo di xampp di /opt/xampp/ Saya lupa, soalnya gk pernah pke xampp pke lampp
+saya masih pakai windows mas, jadi linux saya psang di VM
+ET - GL Hrlnzyh
+ET - GL Nanda Haya
+Kalo instal aplikasi dari windows di linux apakah bisa bang?
+bisa setauku bro ada tolls namanya wine
+ET - GL Fajar Alfansyah
+Ngobrolnya nanti lagi ya mas kita materi dulu okey,wkwk
+ET - GL hito
+Dindin Hernawan
+oh ya dalam penyampaian materi ada sesi tanya jawab jadi di simak dulu ya sampai saya membuka sesi nya :)
+Mangga mas
+ET - GL Nanda Haya
+Ok bang terimakasih :pray:
+Dindin Hernawan
+admin
+Selanjutnya adalah materi mengenai E-Training ini :
+Materi : Pengantar Sistem Operasi
+             - Sistem Operasi
+                  GNU
+                  Linux
+                  Distribusi GNU/Linux
+Bagian Pertama :
+Apakah Sistem Operasi Itu ?
+62 KB
+ET - GL Hrlnzyh
+Dindin Hernawan
+oh ya dalam penyampaian materi ada sesi tanya jawab jadi di simak dulu ya sampai saya membuka sesi nya :)
+oiya mas din saya mau nanya kalo apache, mysql di cli saya udah di stop tapi pas buka lampp cuma apache aja yang jalan mysql nya di start malah merah lagi, kira kira itu emang software nya bug atau gimana?
+Dindin Hernawan
+admin
+Secara umum, sistem operasi adalah perangkat lunak pada
+lapisan pertama yang ditempatkan pada memori komputer pada
+saat komputer dinyalakan booting. Sedangkan software-software
+lainnya dijalankan setelah sistem operasi berjalan, dan sistem
+operasi akan melakukan layanan inti untuk software-software itu.
+Layanan inti tersebut seperti akses ke disk, manajemen memori,
+penjadwalan tugas schedule task, dan antar-muka user GUI/CLI.
+ET - GL Hrlnzyh
+oiya mas din saya mau nanya kalo apache, mysql di cli saya udah di stop tapi pas buka lampp cuma apache aja yang jalan mysql nya
+dibahas nanti ya setelah materi :)
+ET - GL Hrlnzyh
+Dindin Hernawan
+dibahas nanti ya setelah materi :)
+baik mas maaf sebelumnya
+Dindin Hernawan
+admin
+Beberapa sistem operasi yang ada saat ini adalah:
+• Microsoft Windows
+• Mac OS
+• BSD
+• GNU/Linux
+Sejarah GNU ?
+ET - GL admiral Yudha
+boleh
+ET - GL Fajar Alfansyah
+Dindin Hernawan
+Sejarah GNU ?
+Bisa mas
+Dindin Hernawanadmin
+117 KB
+GNU akronim dari GNU's not Unix, merupakan sebuah proyek yang
+digagas oleh Richard Stallman untuk membuat sistem operasi Unix-like
+yang berbasis semangat free Software.
+Namanya merupakan akronim berulang untuk GNU's Not
+UNIX (GNU bukanlah UNIX) nama itu dipilih karena rancangannya
+mirip Unix, tetapi berbeda dari UNIX, GNU tidak mengandung
+kode-kode UNIX. Pengembangan GNU dimulakan oleh Richard
+Stallman dan merupakan fokus asli Free Software Foundation (FSF).
+KGPLI - Firman Fathoni invited re:Fikri
+Dindin Hernawan
+admin
+Pada tahun 1984 Richard Stallman meluncurkan sebuah
+proyek yang disebut dengan GNU (GNU'S NOT UNIX)
+untuk mengembangkan sebuah sistem perangkat lunak bebas
+(free) yang mirip dengan UNIX. Proyek ini merupakan
+wujud dari ketidak setujuan Stallman terhadap proprietary
+software (dimana source code dari sebuah program tidak bisa
+diketahui oleh orang lain).
+Proyek ini diawali dengan membangun dari awal
+sebuah kompiler C yang dikenal dengan nama GCC dan
+kemudian juga Stallman menulis sebuah editor text yang
+bernama GNU Emacs.
+39 KB
+Perangkat lunak bebas yang dicita-citakan oleh GNU bukan berarti perangkat lunak tersebut gratis,
+ada empat jenis kebebasan yang diinginkan GNU yaitu:
+1. Kebebasan untuk menjalankan perangkat lunak tersebut untuk tujuan apa saja (kebebasan 0).
+2. Kebebasan untuk mempelajari bagaimana perangkat lunak itu bekerja serta dapat
+disesuaikan dengan kebutuhan penggunanya (kebebasan 1).
+3. Kebebasan untuk menyebarluaskan kembali hasil salinan perangkat lunak tersebut sehingga
+dapat membantu pengguna lainnya (kebebasan 2).
+4. Kebebasan untuk meningkatkan kinerja perangkat lunak tersebut, dan dapat
+menyebarkannya kembali sehingga dapat dinikmati oleh semua orang (kebebasan 3)
+Sebuah perangkat lunak disebut dengan perangkat lunak bebas (freesoftware) jika ke-empat
+prinsip kebebasan tersebut terpenuhi oleh perangkat lunak tersebut. Untuk melindungi kebebasan
+yang diinginkan oleh GNU, maka perangkat lunak bebas ini dilindungi oleh sebuah lisensi yang
+disebut dengan GNU GPL (GNU General Public Licence).
+Untuk mengetahui lebih banyak lagi mengenai GNU dapat di lihat halaman resminya di
+http://www.gnu.org/ .
+Sejarah FSF ?
+40 KB
+ET - GL Fajar Alfansyah
+Dindin Hernawan
+Sejarah FSF ?
+Gas
+ET - GL hito pinned « 1.png »
+Dindin Hernawan
+admin
+Free Software Foundation (FSF) merupakan
+sebuah organisasi yang didirikan untuk membiayai
+Gambar 1.4: Logo FSF
+pengembangan dari perangkat lunak bebas.
+Organisasi ini didirikan oleh Richard Stallman di tahun 1985 untuk mendukung gerakan dari Free
+Software GNU.
+Pada awalnya FSF digunakan untuk mempekerjakan developer maupun relawan untuk
+mengembangkan perangkat lunak bebas. Untuk saat ini relawan FSF terfokus pada masalah hukum
+dan struktur komunitas pengembang perangkat lunak bebas. FSF memperoleh sumbangan dana dari
+kalangan perusahaan atau organisasi donatur lainnya yang sifatnya umum dan terbuka bagi siapa
+saja untuk kelangsungan FSF itu sendiri.
+Untuk mengetahui lebih banyak lagi mengenai FSF dapat di lihat halaman resminya di
+http://www.fsf.org/.
+nah dari sini kita sudah mulai mempelajari sejarah yang melatar belakangi sebuah rangkaian sejarah atau membahas yang terkait sampai aktor utamanya Linux dimulai
+waktunya membahas era Sejarah Linux, Sejarah UNIX ?
+ET - GL Hrlnzyh
+LINUS TORVALDS 🤣
+Dindin Hernawanadmin
+87 KB
+ET - GL hito
+Siap lanjutkan mas
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+LINUS TORVALDS 🤣
+belum bahas temannya2 dulu :) dan yang menginpirasinya
+Sejarah UNIX
+Pada tahun 1969, Ken Thompson dan Dennis
+Ritchie (juga adalah developer bahasa C), para
+peneliti di AT&T Bell Laboratorium Amerika,
+membuat sistem operasi UNIX. Selanjutnya UNIX
+Mendapatkan perhatian besar karena merupakan
+sistem operasi pertama yang dibuat bukan oleh
+hardware maker. Selain itu juga karena seluruh
+source code-nya dibuat dengan bahasa C, sehingga
+mempermudah pemindahannya ke berbagai
+platform.
+ET - GL Hrlnzyh
+Dindin Hernawan
+belum bahas temannya2 dulu :) dan yang menginpirasinya
+iya bang maaf
+Dindin Hernawan
+admin
+Dalam waktu singkat UNIX berkembang dalam dua jalur : UNIX yang dikembangkan oleh
+Universitas Berkeley dan yang dikembangkan oleh AT&T. Setelah itu mulai banyak perusahaan
+yang melibatkan diri, dan terjadilah persaingan yang melibatkan banyak perusahaan untuk
+memegang kontrol dalam bidang sistem operasi. Persaingan ini menyebabkan perlu adanya
+standarisasi. Dari sini lahirlah proyek POSIX yang dimotori oleh IEEE (The Institute of Electrical
+and Electronics Engineers) yang bertujuan untuk menetapkan spesifikasi standar UNIX. Sejak saat
+itu, muncul berbagai macam jenis UNIX.
+ET - GL hito
+Dindin Hernawan
+belum bahas temannya2 dulu :) dan yang menginpirasinya
+Wah ternyata ada yg menginspirasi linus trovals
+Dindin Hernawan
+admin
+nah kan udah dibahas ceritanya sebelum Aktor utamanyanya datang memenag sudah ada pendukungnya dalam latar belakang kisah yang menginspirasinya
+lanjut
+aktor utamnya :)
+Sejarah Linux ?
+ET - GL M.Yais
+lanjut mas
+Dindin Hernawan
+admin
+tunggu dulu :) bahas sejarah keturunananya dulu :)
+KGPLI - Firman Fathoni invited You
+Dindin Hernawan
+admin
+Time Line sejarah OS bertipe UNIX ?
+48 KB
+ET - GL Lydz
+Mantap ini
+KGPLI - Firman Fathoni invited Zuryour bae
+Dindin Hernawan
+admin
+karena ini tidak bisa di text kan jadi simak pada gambanrnya ya :)
+KGPLI - Firman Fathoni invited S A F
+re:Fikri
+iya mas
+ET - GL hito
+Lanjutkan mas
+ET - GL Hrlnzyh
+baik
+Zuryour bae
+Thank a @FirmanFathoni
+Dindin Hernawan
+admin
+jadi sampai sini jelas ya BSD dan Linux itu beda :) untuk itulah alasan disini membahas GNU/Linux
+S A F
+salken:pray:
+Dindin Hernawan
+admin
+lanjut ya ke aktor utamnya :)
+ET - GL Lydz
+Lanjut
+Dindin Hernawan
+admin
+Sejarah Linux, Sejarah MINIX ?
+Zuryour bae
+Salken
+Dindin Hernawanadmin
+96 KB
+Sejarah Linux
+MINIX adalah salah satu Jenis UNIX yang dikembangkan oleh Andy Tanenbaum pada
+tahun 1987 untuk tujuan pendidikan. Source code MINIX inilah yang menginspirasi lahirnya
+Linux.
+Linux merupakan sebuah Kernel dalam sistem
+operasi yang diciptakan oleh Linus Torvalds seorang
+Pelajar Universitas Helsinki Finlandia. Linux sendiri
+Merupakan proyek hobi yang bertujuan untuk membuat
+kernel yang gratis dan bebas.
+Untuk menjadikan Linux sebuah sistem operasi yang
+utuh, Linus Torvalds memasukkan library, perangkat
+Gambar 1.7: Maskot
+lunak(software) dari proyek GNU.
+Kernel Linux
+Inilah Menjadikan Kerancuan dalam penafsiran Linux sebagai
+kernel atau sistem operasi ?
+ET - GL Hrlnzyh
+Dindin Hernawan
+7.png
+oalah paham paham
+Dindin Hernawan
+admin
+ini yang menarik loh :) Kutipan Richard Stallman ?
+38 KB
+Menurut Kutipan dari Proyek GNU yang dipimpin Richard Stallman.
+gnu.org:
+Sebenarnya Linux memang ada, dan pengguna-pengguna yang disebut di atas
+memang menggunakannya, tapi itu sebenarnya hanya bagian dari sistem yang mereka
+gunakan. Linux adalah kernel: program di dalam sistem yang mengatur alokasi mesin
+dengan program-program lain yang dijalankan. Kernel adalah bagian penting dari
+sebuah sistem operasi, tetapi tidak akan berguna jika dijalankan sendirian. Kernel
+hanya akan berguna di dalam sebuah sistem operasi yang sempurna. Penggunaan
+Linux umumnya dikombinasikan dengan penggunaan sistem operasi GNU: keseluruhan
+sistem adalah GNU yang ditambahkan dengan Linux, disebut GNU/Linux. Semua
+distribusi yang dikenal sebagai “Linux” sebenarnya adalah distribusi GNU/Linux.
+GNU/Linux adalah Sistem Operasi utuh yang merupakan gabungan aplikasi-aplikasi, libraries
+dan tools hasil developing dari GNU Project dengan kernel Linux.
+GNU/Hurd dalah Sistem Operasi utuh yang merupakan gabungan aplikasi-aplikasi, libraries dan
+tools hasil developing dari GNU Project dengan kernel Hurd yang dikembangkanya.
+KGPLI - Firman Fathoni invited Mr.B Relax
+ET - GL Lydz
+Paham"
+Dindin Hernawan
+admin
+nah dari sini sudah muncul sang aktor maka sang aktor perlu dukungan maka dibuatlah Sejarah Linux Foundation ? sebelumnyakan FSF oleh Bapak Richard S yang mendukungnya
+40 KB
+Sejarah Linux Foundation (LF)
+Linux Foundation (LF) adalah konsorsium teknologi
+nirlaba yang ditugaskan untuk mendorong pertumbuhan
+Linux. Didirikan pada tahun 2007 dengan penggabungan
+Open Source Development Labs (OSDL) dan Free
+Standards Group (FSG), Linux Foundation mensponsori
+karya-karya pencipta Linux Linus Torvalds dan didukung
+oleh perusahaan-perusahaan sumber terbuka dan terkemuka, termasuk perusahaan teknologi besar
+seperti Fujitsu, HP, IBM, Intel, NEC, Oracle, Qualcomm, dan Samsung, serta pengembang dari
+seluruh dunia..
+Linux Foundation bertanggung jawab untuk mempromosikan melindungi, dan
+menstandarisasi Linux dengan "menyediakan layanan yang komprehensif untuk bersaing secara
+efektif dengan platform tertutup".
+Untuk mengetahui lebih banyak lagi mengenai LF dapat di lihat halaman resminya di
+https://www.linuxfoundation.org/
+jadi sang aktor sekarang sudah ada yang mendukung timbul lah permasalahan karena kernel itukan cuma bagian dari sistem setalh itu dibantu dukungan proyek GNU sebagai perangkai sistem kernel itu dirakit. nah dari sini timbulah perakit perakit linux yang menyebarkannya
+karena proyek terbuka maka siapa saja bisa menggunakan kernel tersebut
+dari sini sejarah dimulai Distribusi Sistem Operasi GNU/Linux (Distro GNU/Linux) ?
+40 KB
+Distribusi GNU/Linux (Distro)
+Distro GNU/Linux (singkatan dari distribusi perangkat lunak dari proyek GNU dengan
+Proyek Kernel Linux) adalah sebutan untuk sistem operasi komputer dan aplikasinya, merupakan
+keluarga Unix yang menggunakan kernel Linux.
+Pada masa awalnya setiap orang yang ingin menggunakannya harus mengumpulkan sendiri
+program-program GNU dan kernel Linux, kemudian menggabungkan untuk menjadi sebuah system
+operasi yang utuh.
+Hal ini menginspirasi beberapa individu, Komunitas bahkan perusahaan yang
+menggabungkan kernel Linux beserta perangkat lunak bebas GNU dan kemudian
+mendistribusikanya secara bebas atau pun komersial. Mereka juga menambahkan program yang
+dibikin sendiri, yang memudahkan untuk menginstall pada sebuah komputer. Membuat manual
+sendiri serta melakukan pencarian terhadap bug sendiri.
+Contoh Disto GNU/Linux yang termasyhur yang paling awal munculnya :
+Slackware
+Debian GNU/Linux
+Red Hat Linux
+SUSE
+Mandrake
+Gentoo
+Alhamdulillah semua sudah berjalan dan sebab itulah Linux kini banyak sekali Variannya :) dan semua organiasinya terus berkembang ..
+/*** MATERI SELESAI ***/
+Sesi tanya dan diskusi
+silahkan jika ada yang mau berdiskusi dan bertanya atau apapun waktu dipersilahkan :) berkaitan materi ya
+ET - GL Fajar Alfansyah
+Apa itu slackware?
+ET - GL Lydz
+Apakah GNU itu merupakan singkatan?
+ET - GL Hrlnzyh
+Dindin Hernawan
+silahkan jika ada yang mau berdiskusi dan bertanya atau apapun waktu dipersilahkan :) berkaitan materi ya
+mas ada jawaban gak terkait kenapa sih tiap tiap varian linux comand nya beda beda?
+ET - GL Akbar
+#tanya
+apakah ada perbedaan fungsi antara os linux gui dan cli ?
+ET - GL Fihan Dilan
+keren sih linux yang awalnya project hoby bisa sampai seperti sekarang ini :v
+ET - GL Fajar Alfansyah
+ET - GL Hrlnzyh
+mas ada jawaban gak terkait kenapa sih tiap tiap varian linux comand nya beda beda?
+Saya jawab secara logika ya mas. Nanti kalau command nya sama dengan yg lain sama aja Linux itu ngga ada varian atau lebih tepatnya terlihat pasif. Nanti kalau seperti itu bisa jadi tidak ada pengguna Linux lagi
+Dindin Hernawanadmin
+ET - GL Fajar Alfansyah
+Apa itu slackware?
+salah satu distribusi gnu/linux yang menurut saya pribadi legend karena sangat tua dan bertahan dengan cirikahasnya sampai sekarang
+ET - GL Anonymous
+apa itu kernel ? fungsi dan cara menggunakannya bagaimana ?
+
+terima kasih sebelumnya
+re:Fikri
+ET - GL Akbar
+#tanya apakah ada perbedaan fungsi antara os linux gui dan cli ?
+maap bukannya Linux rata rata menggunakan cli yaitu terminal
+KGPLI - Firman Fathoniadmin
+ET - GL Fajar Alfansyah
+Apa itu slackware?
+Slackware itu termasuk distro linux awal, termasuk yg paling tua juga, soalnya dirilis 16 Juli 1993, sampai sekarang masih ada yg memaintenancenya
+ET - GL admiral Yudha
+ET - GL Akbar
+#tanya apakah ada perbedaan fungsi antara os linux gui dan cli ?
+gak ada , gui itu tujuan nya mempermudah biar gak manual nulis2 teks
+ET - GL Fajar Alfansyah
+Dindin Hernawan
+salah satu distribusi gnu/linux yang menurut saya pribadi legend karena sangat tua dan bertahan dengan cirikahasnya sampai sekar
+Ciri khas nya apa?
+ET - GL Bayu Setyaji
+jadi linux itu kernelnya doank mas ? trs GNU/LINUX itu yang udah berbentuk OS?
+Dindin Hernawanadmin
+ET - GL Lydz
+Apakah GNU itu merupakan singkatan?
+ya singkatan yang diterjemhkan ada GNU ya juga
+ET - GL Fajar Alfansyah
+KGPLI - Firman Fathoni
+Slackware itu termasuk distro linux awal, termasuk yg paling tua juga, soalnya dirilis 16 Juli 1993, sampai sekarang masih ada y
+Wah mantep jga ya bertahan lama
+ET - GL Gio Santos
+ET - GL Akbar
+#tanya apakah ada perbedaan fungsi antara os linux gui dan cli ?
+Os linux gui itu tampilannya graphic kalo cli itu command line seperti os linux untuk server
+ET - GL Anonymous
+Dindin Hernawan
+ya singkatan yang diterjemhkan ada GNU ya juga
+singkatannya seperti singkatan PHP
+KGPLI - Firman Fathoni invited Novan AR
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+mas ada jawaban gak terkait kenapa sih tiap tiap varian linux comand nya beda beda?
+karena setiap varian memiliki sistem bahasa shell yang berbeda dan manajeman paket yang beda2 pula tapi tetap memakai kernel dari aslinya
+ET - GL Fihan Dilan
+re:Fikri
+maap bukannya Linux rata rata menggunakan cli yaitu terminal
+pada awalnya memang gitu tapi sekarang sudah ada GUinya
+ET - GL admiral Yudha
+Dindin Hernawan
+karena setiap varian memiliki sistem bahasa shell yang berbeda dan manajeman paket yang beda2 pula tapi tetap memakai kernel dar
+jadi ubuntu sama arch itu tetap pake kernel yang sama ?
+re:Fikri
+ET - GL Fihan Dilan
+pada awalnya memang gitu tapi sekarang sudah ada GUinya
+Oalah oke bang makasih infonya
+Dindin Hernawanadmin
+ET - GL Bayu Setyaji
+jadi linux itu kernelnya doank mas ? trs GNU/LINUX itu yang udah berbentuk OS?
+GNU/Linux adalah penamaan kernel saran dari Richard untuk distro nya yang diturunkan
+KGPLI - Firman Fathoniadmin
+ET - GL Akbar
+#tanya apakah ada perbedaan fungsi antara os linux gui dan cli ?
+Sebenernya gak jauh beda, cuman untuk CLI lebih eifisien, apalagi di sektor server management
+ET - GL Anonymous
+ET - GL Anonymous
+apa itu kernel ? fungsi dan cara menggunakannya bagaimana ? terima kasih sebelumnya
+tolong jawab ini bang
+ET - GL Fihan Dilan
+re:Fikri
+Oalah oke bang makasih infonya
+sama2 bang
+ET - GL Bayu Setyaji
+Dindin Hernawan
+GNU/Linux adalah penamaan kernel saran dari Richard untuk distro nya yang diturunkan
+makasih mas
+ET - GL Anonymous
+:pray:🏽:pray:🏽
+Novan AR
+Halo teman teman sekalian, izin untuk join ya :pray:
+KGPLI - Firman Fathoniadmin
+Novan AR
+Halo teman teman sekalian, izin untuk join ya :pray:
+Met gabung
+ET - GL Hrlnzyh
+KGPLI - Firman Fathoni
+Sebenernya gak jauh beda, cuman untuk CLI lebih eifisien, apalagi di sektor server management
+man sebut nama ku
+ada ilham ada gempi
+KGPLI - Firman Fathoniadmin
+ET - GL Hrlnzyh
+man sebut nama ku
+Halo mas Rizky
+ET - GL Hrlnzyh
+KGPLI - Firman Fathoni
+Halo mas Rizky
+aowkaoak keren mas firman
+ET - GL Lydz
+KGPLI - Firman Fathoni
+Sebenernya gak jauh beda, cuman untuk CLI lebih eifisien, apalagi di sektor server management
+Iya, klo yg di TKJ itu sering pake debian CLI
+Dindin Hernawanadmin
+ET - GL Anonymous
+apa itu kernel ? fungsi dan cara menggunakannya bagaimana ? terima kasih sebelumnya
+kernel itu inti dari sistem operasi yang menghubungkan lapisan hardware dengan sistem operasi
+ET - GL Hrlnzyh
+ET - GL Lydz
+Iya, klo yg di TKJ itu sering pake debian CLI
+iya betul
+KGPLI - Firman Fathoniadmin
+KGPLI - Firman Fathoni
+Sebenernya gak jauh beda, cuman untuk CLI lebih eifisien, apalagi di sektor server management
+Dan juga untuk OS yg menggunakan CLI itu terbilang lebih kecil size isonya dibanding yang menggunakan GUI
+ET - GL Anonymous
+jadi Linux ini menghubungkan hardware dengan GNU gitu mas ?
+ET - GL Fajar Alfansyah
+KGPLI - Firman Fathoni
+Dan juga untuk OS yg menggunakan CLI itu terbilang lebih kecil size isonya dibanding yang menggunakan GUI
+Kenapa bisa menjadi seperti itu?
+Apa penyebabnya?
+Dindin Hernawanadmin
+ET - GL Anonymous
+apa itu kernel ? fungsi dan cara menggunakannya bagaimana ? terima kasih sebelumnya
+rungsinya ya agar sistem operasi berjalan dalam proses menyalakan sistem operasi kernel dipanggil oleh init baik oleh sistemv atau sistemd atau sistem perinitan lainya yang dibenamkan kedalam RAM
+ET - GL Hrlnzyh
+ET - GL Fajar Alfansyah
+Apa penyebabnya?
+ya package nya lur
+ET - GL Anonymous
+Dindin Hernawan
+rungsinya ya agar sistem operasi berjalan dalam proses menyalakan sistem operasi kernel dipanggil oleh init baik oleh sistemv at
+makasih mas, jadi paham
+KGPLI - Firman Fathoniadmin
+ET - GL Fajar Alfansyah
+Kenapa bisa menjadi seperti itu?
+Ya karena GUI itu ada file tambahan seperti icon², beberapa file config di tampilan atau UI yang membuat size isonya bertambah
+Dindin Hernawanadmin
+ET - GL Anonymous
+jadi Linux ini menghubungkan hardware dengan GNU gitu mas ?
+Linux itu kernel GNU itu proyek yang membuat kernel itu dapat bekerja karena kernel tidak bisa bekerja tanpa software tambahan lainnya.
+ET - GL Fajar Alfansyah
+KGPLI - Firman Fathoni
+Ya karena GUI itu ada file tambahan seperti icon², beberapa file config di tampilan atau UI yang membuat size isonya bertambah
+Oke mas makasih
+ET - GL D. Syafa’atul Anbiya
+saya pakai distro based 18.04, apakah bisa tambah repository 20.04, soalnya di repository bionic 18.04 nggk ada scrcpy, di focal fossa ada
+ketika release versi distro baru misal ubuntu 20.04 selalu update juga repositorinya,
+ET - GL Anonymous
+Dindin Hernawan
+Linux itu kernel GNU itu proyek yang membuat kernel itu dapat bekerja karena kernel tidak bisa bekerja tanpa software tambahan l
+makasih banyak mas
+ET - GL Fihan Dilan
+kalau mode bios itu apakah terpisah dari OS?
+ET - GL Fajar Alfansyah
+ET - GL D. Syafa’atul Anbiya
+ketika release versi distro baru misal ubuntu 20.04 selalu update juga repositorinya,
+Skrg udah update lagi mas ubuntu
+Dindin Hernawan
+admin
+sangat interaktif sekali ya :) yang belum bertanya silahkan bertanya dan yang mengerti silahkan berdiskusi karena setiap individu cara pdangnya berbeda tapi maksudnya sama ke tujuannya
+ET - GL Hrlnzyh
+ET - GL Fihan Dilan
+kalau mode bios itu apakah terpisah dari OS?
+tau recovery di hp gak? kek gitulah wkwk
+ET - GL Anonymous
+maksudnya linux itu open source gimana kak ? apakah kita bisa ubah semau mau kita ?
+ET - GL D. Syafa’atul Anbiya
+ET - GL Fihan Dilan
+kalau mode bios itu apakah terpisah dari OS?
+bios perangkat lunak yang tertanam di motherboard
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+saya pakai distro based 18.04, apakah bisa tambah repository 20.04, soalnya di repository bionic 18.04 nggk ada scrcpy, di focal
+saran saya download iso 20.0r karena sistem upgrade itu replace menurut saya kurang efektif lebih baik hadir baru :)
+ET - GL Fihan Dilan
+ET - GL Hrlnzyh
+tau recovery di hp gak? kek gitulah wkwk
+berarti sistem seperti BIOS itu tertanam langsung ke Hardware komputrer gitu, gak ke HDD?
+ET - GL D. Syafa’atul Anbiya
+bios perangkat lunak yang tertanam di motherboard
+nah ini dia, Makasih mas jawabannya
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+kalau mode bios itu apakah terpisah dari OS?
+ya terpisah :) untuk itulah bios juga bisa berjalan tanpa os
+ET - GL Fajar Alfansyah
+ET - GL Anonymous
+maksudnya linux itu open source gimana kak ? apakah kita bisa ubah semau mau kita ?
+Bisa dilihat/bisa dipakai siapa saja
+ET - GL Bayu Setyaji
+ET - GL Anonymous
+maksudnya linux itu open source gimana kak ? apakah kita bisa ubah semau mau kita ?
+hmm iya penasaran juga
+KGPLI - Firman Fathoniadmin
+ET - GL Fihan Dilan
+kalau mode bios itu apakah terpisah dari OS?
+Secara teknis itu bukan OS, tapi itu program input/output untuk mempersiapkan OS yang sebenarnya
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+berarti sistem seperti BIOS itu tertanam langsung ke Hardware komputrer gitu, gak ke HDD?
+ngga bios tertanam di chip biosnya so bios juga bisa tanpa adanya hardisk
+ET - GL Anonymous
+ET - GL Fajar Alfansyah
+Bisa dilihat/bisa dipakai siapa saja
+jadi bukan diubah semau kita ?
+Dindin Hernawanadmin
+ET - GL Anonymous
+maksudnya linux itu open source gimana kak ? apakah kita bisa ubah semau mau kita ?
+ya tapi harus mengikuti sesuai licensinya ada juga batasannya
+menarik sekali ya :) selanjutnya adalah pembahasan laporan ya
+ET - GL Fajar Alfansyah
+ET - GL Anonymous
+jadi bukan diubah semau kita ?
+Seperti itu juga bisa cman ada aturannya
+Dindin Hernawan
+admin
+lanjut ?
+ET - GL Fihan Dilan
+Dindin Hernawan
+ngga bios tertanam di chip biosnya so bios juga bisa tanpa adanya hardisk
+biosnya bisa di uninstall gk mas? atau sudah menjadi suatu kesatuan?
+ET - GL Anonymous
+pertanyaan saya yang berikutnya, kan di Linux ada toolsnya, saya pakai ubuntu sekarang, nah tools tools apa saja yang ada di ubuntu saya ? atau bagaimana cara melihat maupun menggunakan tools yang ada ?
+
+
+terima kasih sebelumnya :pray:🏽:pray:🏽
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+biosnya bisa di uninstall gk mas? atau sudah menjadi suatu kesatuan?
+bisa diupgrade kalau ngga ada bios ya matherboardnya mati total dead
+You
+Dindin Hernawan
+ya tapi harus mengikuti sesuai licensinya ada juga batasannya
+Jika kita melanggar, apakah ada sanksinya ? Kan itu open source tuh bang:pray:
+re:Fikri
+ET - GL Fajar Alfansyah
+Bisa dilihat/bisa dipakai siapa saja
+maaf tapi kan windows juga bisa di pake dan dilihat sama siapa aja kak?
+ET - GL Anonymous
+akhirnya jadi semangat pakai linux
+ET - GL Fihan Dilan
+Dindin Hernawan
+bisa diupgrade kalau ngga ada bios ya matherboardnya mati total dead
+wow menarik sekali, terima kasih jawabannya mas :v
+ET - GL D. Syafa’atul Anbiya
+ET - GL Anonymous
+pertanyaan saya yang berikutnya, kan di Linux ada toolsnya, saya pakai ubuntu sekarang, nah tools tools apa saja yang ada di ubu
+biasanya di folder /bin,/sbin
+Dindin Hernawanadmin
+re:Fikri
+maaf tapi kan windows juga bisa di pake dan dilihat sama siapa aja kak?
+benar tapi kita tidak pernah tau sorce codenya kan ?
+ET - GL Bayu Setyaji
+Dindin Hernawan
+Pada masa awalnya setiap orang yang ingin menggunakannya harus mengumpulkan sendiri program-program GNU dan kernel Linux, kemudi
+kenapa yanh ada GNU nya cuma di debian ya ?
+ET - GL Anonymous
+re:Fikri
+maaf tapi kan windows juga bisa di pake dan dilihat sama siapa aja kak?
+dijual bang kalau windows
+ET - GL Fajar Alfansyah
+re:Fikri
+maaf tapi kan windows juga bisa di pake dan dilihat sama siapa aja kak?
+Nah begitu juga halnya sama dengan Linux open source
+re:Fikri
+ET - GL Anonymous
+maksudnya linux itu open source gimana kak ? apakah kita bisa ubah semau mau kita ?
+setauku Linux kita bisa me modifikasi dan mengembangkan dan juga mengetahui apa sih yang ada di dalam linux
+ET - GL Hrlnzyh
+Dindin Hernawan
+benar tapi kita tidak pernah tau sorce codenya kan ?
+mas mau nanya yang tadi
+oiya mas din saya mau nanya kalo apache, mysql di cli saya udah di stop tapi pas buka lampp cuma apache aja yang jalan mysql nya di start malah merah lagi, kira kira itu emang software nya bug atau gimana?
+ET - GL Fajar Alfansyah
+re:Fikri
+maaf tapi kan windows juga bisa di pake dan dilihat sama siapa aja kak?
+Kalau windows itu biasanya sudah ada pada hampir tiap laptop apa komputer. Beda sama Linux itu biasanya karena keinginan nya sndiri untuk install
+ET - GL Anonymous
+ET - GL Anonymous
+pertanyaan saya yang berikutnya, kan di Linux ada toolsnya, saya pakai ubuntu sekarang, nah tools tools apa saja yang ada di ubu
+ini juga mas, tolong dijawab :pray:🏽
+re:Fikri
+ET - GL Fajar Alfansyah
+Kalau windows itu biasanya sudah ada pada hampir tiap laptop apa komputer. Beda sama Linux itu biasanya karena keinginan nya snd
+Oalah iya bang
+ET - GL Fajar Alfansyah
+ET - GL Hrlnzyh
+oiya mas din saya mau nanya kalo apache, mysql di cli saya udah di stop tapi pas buka lampp cuma apache aja yang jalan mysql nya
+Brrti itu belum bisa berjalan mas
+ET - GL Hrlnzyh
+ET - GL Fajar Alfansyah
+Kalau windows itu biasanya sudah ada pada hampir tiap laptop apa komputer. Beda sama Linux itu biasanya karena keinginan nya snd
+yakan di bios nya dia setting dlu mau pake os apa bang
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+oiya mas din saya mau nanya kalo apache, mysql di cli saya udah di stop tapi pas buka lampp cuma apache aja yang jalan mysql nya
+saran saya croscek versinya sudah uptodate belum atau ada kendala yang kurang spesifik atau memagng benar ada bugs atau ada log bughsnya dan bisa ditemukan di sistem pencaharian
+You
+You
+Jika kita melanggar, apakah ada sanksinya ? Kan itu open source tuh bang:pray:
+@FirmanFathoni mau nanya dong a
+KGPLI - Firman Fathoniadmin
+ET - GL Anonymous
+pertanyaan saya yang berikutnya, kan di Linux ada toolsnya, saya pakai ubuntu sekarang, nah tools tools apa saja yang ada di ubu
+Ada di directory /usr/bin
+ET - GL Fajar Alfansyah
+ET - GL Hrlnzyh
+yakan di bios nya dia setting dlu mau pake os apa bang
+Iya cman kebanyakan hampir tiap Laptop/komputer kan sudah Makai. Beda lagi kalo pake mac
+ET - GL Hrlnzyh
+ET - GL Hrlnzyh
+yakan di bios nya dia setting dlu mau pake os apa bang
+nah rata rata yang di gunakan pakenya windows, karena simpel saja, tidak semua orang bisa menggunakan cli
+Dindin Hernawan
+admin
+kalau diterminal ketik help kalau ada guinya kan ada menunya
+153 KB
+ET - GL Hrlnzyh
+Dindin Hernawan
+saran saya croscek versinya sudah uptodate belum atau ada kendala yang kurang spesifik atau memagng benar ada bugs atau ada log
+soalnya pake yang lastest gabisa bang tapi pake yang v5 bisa
+KGPLI - Firman Fathoniadmin
+You
+Jika kita melanggar, apakah ada sanksinya ? Kan itu open source tuh bang:pray:
+Tergantung apakah ada software yg mempunyai lisensi lain atau tidak didalam repositorynya
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+soalnya pake yang lastest gabisa bang tapi pake yang v5 bisa
+bisa jadi kecocokan versi osnya dengan versi tertentu atau masalah lainnya
+ET - GL Anonymous
+Dindin Hernawan
+kalau diterminal ketik help kalau ada guinya kan ada menunya
+terminal itu fungsinya apa kak ?apakah  semacam cmd di windows begitu ?
+Dindin Hernawan
+admin
+baik waktu semakin menipis lajut dulu mengenai laopran ya nanti diskusi lagi
+ET - GL Hrlnzyh
+Dindin Hernawan
+bisa jadi kecocokan versi osnya dengan versi tertentu atau masalah lainnya
+oalah oke makasih bang sebelumnya
+re:Fikri
+oke bang
+ET - GL admiral Yudha
+ok bg
+Dindin Hernawan
+admin
+09:30 silahkan diskusi ok
+ET - GL Anonymous
+ET - GL Anonymous
+terminal itu fungsinya apa kak ?apakah semacam cmd di windows begitu ?
+pertanyaan terakhir ini bang....
+ET - GL Fajar Alfansyah
+ET - GL Anonymous
+terminal itu fungsinya apa kak ?apakah semacam cmd di windows begitu ?
+Hampir mirip seperti itu sih mas
+ET - GL Hrlnzyh
+ET - GL Anonymous
+terminal itu fungsinya apa kak ?apakah semacam cmd di windows begitu ?
+ya cmd itu kepanjangannya comand
+ET - GL Anonymous
+ET - GL Fajar Alfansyah
+Hampir mirip seperti itu sih mas
+makasih mas :pray:🏽
+Dindin Hernawan
+admin
+ok lanjut dulu ya nanti kan banyak waktu setelah 9:30 :)
+re:Fikri
+ET - GL Hrlnzyh
+ya cmd itu kepanjangannya comand
+kan command artinya perintah
+You
+Dindin Hernawan
+ok lanjut dulu ya nanti kan banyak waktu setelah 9:30 :)
+Iya bang lanjut aja
+Dindin Hernawan
+admin
+Bagian Kedua :
+Penyusunan dan Pembahasan Laporan.
+ET - GL Hrlnzyh
+Dindin Hernawan
+Bagian Kedua : Penyusunan dan Pembahasan Laporan.
+baik mas lanjut
+Dindin Hernawan
+admin
+nah setelah dasar materi tadi tugasnya adalah membuat sebuah laopran nantinya dikirimkan via email
+formatnya
+17 KB
+3 KB
+Tugas : Membuat Laporan Mengenai Distribusi GNU/Linux yang digunakan saat ini atau yang pernah digunakan.
+            Sample : Laporan Ubuntu (Isinya Sejarah Ubuntu dan Informasinya Yang Terkait)
+            
+            Minimal 2 Halaman (Judul & Pembahasan) Format Bebas. (.txt .pdf .odt .md dll)
+            Dikirimkan Via E-Mail 'dindin_hernawan@yahoo.com'
+            Subject E-Mail 'Laporan Mengenai Distribusi GNU/Linux'
+
+Batasan Sampai Tanggal 6 Maret 2021
+Dindin Hernawan pinned «Tugas : Membuat Laporan Mengenai Distribusi GNU/Linux yang digunakan saat ini. Sample : Laporan Ubuntu (Isinya Sejar»
+ET - GL Fihan Dilan
+ada batas waktunya sampai kapan?
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+ada batas waktunya sampai kapan?
+sudah di update di pin chatnya
+ET - GL Fihan Dilan
+oh maaf gak lihat
+ET - GL Fajar Alfansyah
+Ini invidu Jan mas?
+Dindin Hernawan
+admin
+nah sampai sini ada yang mau dipertanyakan mengenai laporannya
+ET - GL Fajar Alfansyah
+Ini invidu Jan mas?
+ya inidividu untuk mengikuti materi selanjutnya dan sebagai persyartan atas e-certifikat jadi dalam mendapakat sertifaktnya memang benar ada analisa dan membuat laoparannya
+ET - GL Hrlnzyh
+makasih mas
+ET - GL Anonymous
+baik mas, terima kasih atas materinya hari ini.:pray:🏽
+ET - GL D. Syafa’atul Anbiya
+Dindin Hernawan
+nah sampai sini ada yang mau dipertanyakan mengenai laporannya
+Untuk laporannya harus yang saat ini digunakan?
+ET - GL akutagawaxyz
+Dindin Hernawan
+Tugas : Membuat Laporan Mengenai Distribusi GNU/Linux yang digunakan saat ini atau yang pernah digunakan. Sample : L
+Baik pak, terima kasih atas semua ilmunya :+1::grin:
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+Untuk laporannya harus yang saat ini digunakan?
+udah diupdate :) pin messagesnya
+ok pass sesions berkahir sampai sini chat aka dibuat chat log
+KGPLI - Firman Fathoni
+admin
+Terima kasih atas partisipasinya, silahkan untuk istirahat atau melanjutkan aktifitas yang lain, sampai jumpa di pertemuan berikutnya... semangatt...
+ET - GL hito
+Bang mau nanya, penyebab overload ram itu apa yak??
+Saya buka 5 tab broweser firefox + vscode
+Dindin Hernawan
+admin
+terimakasih sebelumnya atas partisipaasinya yang sangat dan begitu antusias :) sekian dari saya dan bersama firman juga mengucapakan materi telah selesai. Wasalamu'alaikum Wr. Wb.
+You
+Terimakasih a atas ilmunya
+Dindin Hernawanadmin
+<======== FINISH RECORD LOG CHAT ========>

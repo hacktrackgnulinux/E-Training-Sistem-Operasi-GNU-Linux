@@ -1,0 +1,86 @@
+/**
+Informasi :
+Pertemuan 01/01
+Acara Akan Dimulai Hari Ini
+Pukul : 08:00 - 09:30 Malam
+
+Persiapan yang harus disiapkan : 
+- Aktif Telegram
+- Saling Menyapa
+- Perkenalan Pemateri
+- Penyampaian Materi
+- Penugasan Laporan Kegiatan
+- Diskusi Mengenai Laporan
+- Pengumpulan Laporan guna sebagai syarat mengikuti
+  Materi Selanjutnya.
+
+Tujuan Pengumpulan Laporan :
+- Agar mengenal Operating Sistem yang digunakan saat ini.
+- Menambah analisa dan melatih mengenali sistem operasi secara
+  individual.
+- Melatih menggunkan aplikasi2 yang ada di operating sistem saat ini
+  dalam penyusunan laporan.
+- Melatih dalam melakukan kegiatan pengiriman data melalui e-mail.
+
+**/
+
+Chat Log :
+<======== START RECORD LOG CHAT ========>
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang di acara
+Elektronik Training Sistem Operasi GNU/Linux
+
+Perkenalan Nama Saya : Dindin Hernawan
+Tinggal di : Kota Banjar - Jawa Barat
+OS Yang dipakai Saat ini : HTGL Presistent Flashdisk 16GB
+Aktifitas Open Source : Mengembangkan Sistem Operasi GNU/Linux
+Distribusi Lokal Bernama Xenta OS Linux dan Aktifitas sebagai
+pengguna OS bertipe Linux serta influencher di sekitar aktifitas 
+saat ini.
+
+Pengalaman :
+- Membangun Operating Sistem GNU/Linux
+- Konsultan Membangun Operating Sistem GNU/Linux
+- Aktifis Penerjemah Aplikasi Open Source di Github dan Launchpad
+- Mengajar Kulgram mengenai topik Open Source
+- Aktifitas bersosial media berkaitan ilmu Komputer dan Open Source
+
+Baiklah saya kira sudah cukup dalam perkenalan diri ada pertanyaan ? 
+dipersilahkan :) sebelum melanjutkan ke materinya
+
+Selanjutnya adalah materi mengenai E-Training ini :
+Materi : Pengantar Sistem Operasi
+             - Sistem Operasi
+                  GNU
+                  Linux
+                  Distribusi GNU/Linux
+
+Bagian Pertama :
+Apakah Sistem Operasi Itu ?
+1.png
+Sejarah GNU ?
+2.png
+3.png
+Sejarah FSF ?
+4.png
+Sejarah Linux, Sejarah UNIX ?
+5.png
+Time Line sejarah OS bertipe UNIX ?
+6.png
+Sejarah Linux ?
+7.png
+Kutipan Richard Stallman ?
+8.png
+Sejarah Linux Foundation ?
+9.png
+Distribusi Sistem Operasi GNU/Linux (Distro GNU/Linux) ?
+10.png
+
+Bagian Kedua :
+Penyusunan dan Pembahasan Laporan.
+
+Bagian Ketiga :
+Pemberitahuan Penyampaian Laporan di Group
+Laporan akan di baca dan di analisa hasilnya 
+akan dishare di github.
+<======== FINISH RECORD LOG CHAT ========>
