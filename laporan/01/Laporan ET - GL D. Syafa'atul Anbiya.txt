@@ -1,0 +1,30 @@
+Laporan Sistem Operasi elementary OS 5.1.7 Hera
+Dibuat Oleh : D. Syafa'atul Anbiya
+
+Digunakan Untuk Memenuhi Persyaratan dalam Mengikuti Sesi Berikutnya
+dalam E-Training Sistem Operasi GNU/Linux
+
+         eeeeeeeeeeeeeeeee            dsyafaatul@dsyafaatul-HP-EliteBook-8470w 
+      eeeeeeeeeeeeeeeeeeeeeee         ---------------------------------------- 
+    eeeee  eeeeeeeeeeee   eeeee       OS: elementary OS 5.1.7 Hera x86_64 
+  eeee   eeeee       eee     eeee     Host: HP EliteBook 8470w A1029D1103 
+ eeee   eeee          eee     eeee    Kernel: 5.4.0-65-generic 
+eee    eee            eee       eee   Uptime: 4 hours, 29 mins 
+eee   eee            eee        eee   Packages: 1844 
+ee    eee           eeee       eeee   Shell: bash 4.4.20 
+ee    eee         eeeee      eeeeee   Resolution: 1600x900, 1920x1080 
+ee    eee       eeeee      eeeee ee   DE: Pantheon 
+eee   eeee   eeeeee      eeeee  eee   WM: Mutter(Gala) 
+eee    eeeeeeeeee     eeeeee    eee   Terminal: io.elementary.t 
+ eeeeeeeeeeeeeeeeeeeeeeee    eeeee    CPU: Intel i7-3630QM (8) @ 3.400GHz 
+  eeeeeeee eeeeeeeeeeee      eeee     GPU: AMD Radeon HD 7550M/7570M/7650M 
+    eeeee                 eeeee       Memory: 2999MiB / 7893MiB 
+      eeeeeee         eeeeeee 
+         eeeeeeeeeeeeeeeee                                   
+
+    Elementary OS adalah sistem informasi Linux yang merupakan salah satu distribusi linux berbasis Ubuntu. Distro ini secara default menggunakan Desktop Environtment yang bernama Pantheon dan telah terinstall beberapa aplikasi bawaan elementary OS lainnya. Distro ini menggunakan Gala (basis Mutter) sebagai Window Manager nya.
+    
+    Elementary OS memiliki slogan "The fast, open, and privacy-respecting replacement for Windows and macOS" Sangat cocok untuk pengguna linux pemula yang baru mencoba linux, karena User Interface sangat cantik dan User Experience juga mudah, untuk versi terbaru distro Elementary OS adalah 5.1.7 Hera berdasarkan basis Ubuntu 18.04 (Bionic Beaver).
+    
+    Elementary OS Hera 5 telah menerima pembaruan keamanan dan stabilitas ke pustaka dasarnya dari repositori Ubuntu LTS hingga April 2028, atas izin Canonical. Sekarang sepenuhnya akan memiliki mempersiapkan pembaharuan ke Versi 6. Meskipun begitu, Elementary OS masih merilis beberapa pembaruan untuk OS 5.1 sepanjang Juli dan awal Agustus.
+    Untuk informasi lengkap tentang Distro Elementary OS dapat dilihat di situs resminya yaitu https://elementary.io/
