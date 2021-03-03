@@ -1,5 +1,5 @@
-KGPLI - Dindin Hernawan
-KGPLI - Firman Fathoni
+KPGLI - Dindin Hernawan
+KPGLI - Firman Fathoni
 ET - GL Ferdinand A
 ET - GL M_R
 ET - GL hito
