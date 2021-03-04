@@ -1,0 +1,43 @@
+Laporan Sistem Operasi Ubuntu 20.04 LTS
+Dibuat Oleh : Fihan Dilan Pratama
+
+Digunakan untuk memenuhi persyaratan dalam mengikuti sesi berikutnya dalam 
+E-Training sistem operasi GNU/Linux.
+
+           .-/+oossssoo+/-.               fihan@fihan-X555QG 
+        `:+ssssssssssssssssss+:`           ------------------ 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.2 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: X555QG 1.0 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.8.0-43-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 12 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1938 (dpkg), 10 (snap) 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.0.17 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1366x768 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Yaru-dark 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Adwaita-dark [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: AMD A10-9600P RADEON R5 4C+6G ( 
+    .ossssssssssssssssssdMMMNysssso.       GPU: AMD ATI Radeon HD 8670A/8670M/8 
+      -+sssssssssssssssssyyyssss+-         GPU: AMD ATI Radeon R5/R6/R7 Graphic 
+        `:+ssssssssssssssssss+:`           Memory: 1616MiB / 3445MiB 
+            .-/+oossssoo+/-.
+
+  Ubuntu merupakan salah satu distribusi Linux yang berbasis Debian dan didistribusikan sebagai
+perangkat lunak bebas. Ubuntu ditawarkan dalam tiga edisi resmi: Ubuntu Desktop untuk komputer 
+pribadi, Ubuntu Server untuk server dan komputasi awan, dan Ubuntu Core untuk "Internet untuk 
+Segala", perangkat kecil dan robot.
+
+  Nama Ubuntu berasal dari filosofi dari Afrika Selatan yang berarti "kemanusiaan kepada sesama" 
+Proyek Ubuntu resmi disponsori oleh Canonical Ltd. yang merupakan sebuah perusahaan yang dimiliki 
+oleh pengusaha Afrika Selatan Mark Shuttleworth. Tujuan dari distribusi Linux Ubuntu adalah membawa 
+semangat yang terkandung di dalam filosofi Ubuntu ke dalam dunia perangkat lunak. Ubuntu adalah 
+sistem operasi lengkap berbasis Linux, tersedia secara bebas, dan mempunyai dukungan baik yang 
+berasal dari komunitas maupun tenaga ahli profesional.
+
+  Ubuntu pertama kali dirilis pada 20 Oktober 2004. Semenjak itu, Canonical telah merilis versi 
+Ubuntu yang baru setiap 6 bulan sekali. Setiap rilis didukung selama 18 bulan untuk pembaruan 
+sistem, keamanan, dan kesalahan (bug). Setiap 2 tahun sekali (versi xx.04 dengan x angka genap) 
+akan mendapatkan Long Term Support(LTS) selama 3 tahun untuk desktop dan 5 tahun untuk edisi server.
