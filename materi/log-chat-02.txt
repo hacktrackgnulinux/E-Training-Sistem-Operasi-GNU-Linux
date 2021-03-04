@@ -1,0 +1,256 @@
+<==== START LOG CHAT RECORD ====>
+ET - GL Gio Santos
+Selamat malam semuanya
+Dindin Hernawan
+admin
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang kembali dipertemuan kedua minggu satu
+Elektronik Training Sistem Operasi GNU/Linux
+ET - GL Fihan Dilan
+ET - GL Gio Santos
+Selamat malam semuanya
+selamat malam bang
+ET - GL Arip Id
+Dindin Hernawan
+Assalamu'alikum Wr. Wb. selamat malam semuanya dan selamat datang kembali dipertemuan kedua minggu satu Elektronik Training Sist
+Waalaikumsalam
+ET - GL Fandi
+Waalaikumsalam mas
+ET - GL Nanda Haya
+waalaikumsalam bang
+ET - GL Fihan Dilan
+Dindin Hernawan
+Assalamu'alikum Wr. Wb. selamat malam semuanya dan selamat datang kembali dipertemuan kedua minggu satu Elektronik Training Sist
+waalaikumsalam
+ET - GL Relarizky
+Waalaikumsalam
+Dindin Hernawan
+admin
+@giosantos91  malam ini ditemani juga Mas Gio dari Negara Timor Timur atau tepatnya Timor Leste, mas ini sangat aktif dan bagian dari Developer juga di Xenta OS Linux serta rajin aktif diacara Kulgram DEvelopernya :) silahkan mas perkenalkan diri waktu dan tempat dipersilahkan
+ET - GL Fajar Alfansyah
+Waalaikum salam
+ET - GL Anonymous invited Aswar Sumarlin
+ET - GL D. Syafa’atul Anbiya
+Walaikumsalam
+Dindin Hernawan
+admin
+@giosantos91  oh ya satu lagi mas gio juga pernah membuat suatu proyek Sistem Operasi yang dibuatnya sendiri dan sempat konsultasi kepada saya juga salah satu manfaat juga dalam mengikuti Kulgram di DEveloper, mas gio ini sangat kreatif
+ET - GL Gio Santos
+Malam abang² semua yang mengikuti E-Traning Sistem Operasi GNU/Linux.
+Nama saya Eligio dos Santos asal dari negara tetangga Timor Leste
+ET - GL Fajar Alfansyah
+Salam kenal mass
+ET - GL Anonymous
+salam kenal bang.
+ET - GL Fandi
+ET - GL Gio Santos
+Malam abang² semua yang mengikuti E-Traning Sistem Operasi GNU/Linux. Nama saya Eligio dos Santos asal dari negara tetangga Timo
+Salam kenal mas
+ET - GL Fihan Dilan
+salam kenal bang
+KGPLI - Firman Fathoniadmin
+ET - GL Gio Santos
+Malam abang² semua yang mengikuti E-Traning Sistem Operasi GNU/Linux. Nama saya Eligio dos Santos asal dari negara tetangga Timo
+Salam kenal bang
+ET - GL Nanda Haya
+salam kenal bang
+ET - GL D. Syafa’atul Anbiya
+Salam kenal bang
+ET - GL Bayu Setyaji
+salam kenal mas
+ET - GL Relarizky
+Salam kenal mas
+Dindin Hernawan
+admin
+baiklah sesi kali ini akan membahas pengalaman dan sesi yang mendadak yang saya buat acara pengalaman dalam membangun sistem operasi bersama mas gio @giosantos91 dan ditemani juga mas firman @FirmanFathoni
+dan akan membahas sesi mengenai laporannya
+serta membahas tujuan dari etraining ini
+Dimulai dari pertanyaan untuk mas gio ? hal apa yang membuat mas pertama kali dalam membangun sistem operasi dan kesan dalam acara kulgram developer mas ? @giosantos91
+ET - GL Gio Santos
+Terima kasih untuk waktunya
+Hal yang pertama adalah saya penasaran bagaimana bagaimana membangun OS dan saya lihat ada di internet banyak distro-distro linux yang muncul dan disini baru saya cari referensi diinternet dan saya membuka satu link difacebook saya lihat nah ini menarik baru saya belajar link itu bang dinding yang upload difacebook barulah saya gabung diproject XENTAOS.
+Kesan dalam acara kulgram developer sangat banyak manfaatnya
+Dindin Hernawanadmin
+ET - GL Gio Santos
+Kesan dalam acara kulgram developer sangat banyak manfaatnya
+salah satunya yang berpengaruh terhadap proyek apa mas bisa diceritakan :)
+ET - GL Gio Santos
+Salah satunya belajar hal hal yang baru seperti pertama kali saya buat playmount itu saya senang bangat trus membuat paket .dep wallpaper thema dan paket .dep icon rasanya senang. Tapi kalo mau membangun OS harus membuat team kalo mau membangun sendiri aga susah
+Dindin Hernawanadmin
+ET - GL Gio Santos
+Salah satunya belajar hal hal yang baru seperti pertama kali saya buat playmount itu saya senang bangat trus membuat paket .dep
+jadi maksudnya mas gio adalah paket plymount yaitu paket yang menimbulkan display booting logo :) maksudnya bukan .dep ya tapi membuat paket debian yang berekstensi .deb baik dari 0 maupun mengeditnya tentunya ini sangat berpengaruh banyak :) @giosantos91  kesan yang banyak tentunya
+ET - GL Gio Santos
+Dindin Hernawan
+jadi maksudnya mas gio adalah paket plymount yaitu paket yang menimbulkan display booting logo :) maksudnya bukan .dep ya tapi m
+Ya bang
+Dindin Hernawan
+admin
+terimakasih mas atas waktunya @giosantos91  :) selajutnya adalah sesi membahas apa sih tujuan etraining ini ?
+Tujuan dari E-Training ini adalah :
+Manfaat Materi Minggu 1
+1. Mengetahui sejarah guna informasi operating sistem yang terkait 
+   dan sedang digunakan.
+2. Dituntut untuk bisa memecahkan dalam melaporkan permasalan karena sudah
+   Mengenal informasi operating sistem sebelumnya.
+3. Menjadi wadah yang terbuka dalam berpengetahuan dan acara eksplorasi
+   dalam memahami sistem operasi lebih dalam.
+Manfaat Materi Minggu 2 (yang akan dimulai di minggu 2)
+4. Dengan mengikuti E-Training ini, member bisa mengatasi permasalahan
+   dalam menginstall sistem operasi secara baik dan benar. karena ada materi
+   yang akan membahas seluk beluk permasalahan dan dasar-dasar installasi.
+Manfaat Materi Minggu 3-4 (Undangan khusus untuk Sesi yang telah mendapatkan e-seftifikat)
+5. Member disini dituntut dapat membangun bahkan berkontribusi dalam
+   membangun sistem operasi itu sendiri.
+6. Setelah Lulus dari E-training ini diusahakan ilmu yang diberikan di pubikasikan
+   atau dibagi atau digunakan sebagai wadah dalam mencari pendapatan atau apapun
+   yang berkaitan dengan sistem operasi.
+sampai disini adakah yang belum dimengerti sebelum melanjutkan sesi berikutnya, waktu dan tempat dipersilahkan bertanya kepada rekan saya, mas gio atau mas firman, dipersilahkan @giosantos91  @FirmanFathoni
+ET - GL Gio Santos
+Udah mengerti bang
+ET - GL D. Syafa’atul Anbiya
+apakah kita nanti akan diajarkan bagaimana membangun distro linux?
+ET - GL Fihan Dilan
+saya mau tanya ke mas gio atau mas firman, hal paling menantang dalam membangun os itu, kira2 apa bang?
+ET - GL Anonymous
+bahasa yang digunakan untuk membuat OS itu apa mas ?
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+apakah kita nanti akan diajarkan bagaimana membangun distro linux?
+betul sekali tapi ada persyaratannya yaitu mengikuti minggu 1 dan minggu 2 mengerjakan semua tugas dan laporan dari minggu 1 dan 2 :)
+ET - GL Anonymous
+bahasa yang digunakan untuk membuat OS itu apa mas ?
+dalam hal ini bukan membuat benar2 dari 0 ya melaikan membuat distribusi yang ada dan kita membuat konfigurasi dan penyusiannya sendiri alalu kita buatkan berkas .iso nya
+ET - GL Anonymous
+oalah, saya kira bangun dari 0  mas:sweat_smile:
+KGPLI - Firman Fathoniadmin
+ET - GL Fihan Dilan
+saya mau tanya ke mas gio atau mas firman, hal paling menantang dalam membangun os itu, kira2 apa bang?
+Mungkin package management sih, tapi kalo cuman nurun dari package lain ga masalah
+Dindin Hernawanadmin
+ET - GL Anonymous
+oalah, saya kira bangun dari 0 mas:sweat_smile:
+dalam hal 0 mungkin iya soalya nanti dituntunt untuk membuat berkas isolinux (berkas iso disc yang bootable) dari membuat folder pengisiannya dan lain2
+ET - GL Fihan Dilan
+KGPLI - Firman Fathoni
+Mungkin package management sih, tapi kalo cuman nurun dari package lain ga masalah
+package management itu yang seperti apa bang?
+KGPLI - Firman Fathoniadmin
+ET - GL Fihan Dilan
+package management itu yang seperti apa bang?
+Repository, jadi semisal user mau install suatu tools/software itu ngambil dari repo
+Contoh package manager ada apt, yum, pacman, aptitude, synaptic, dll
+ET - GL Fihan Dilan
+mirip kayak git yang source code management itu? tapi ini soal package management?
+ET - GL D. Syafa’atul Anbiya
+kyak composer kah?
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+package management itu yang seperti apa bang?
+secara garis besarnya packet manager itu yang memiliki tanggung jawab dalam hal paket2 yang terpasang yang perlu diupdate atau user ingin melakukan perubahan baik update install remove, kalau dalam keluarga debian dan ubuntu biasanya ada APT dengan berkas installasinya .deb
+ET - GL Anonymous
+Dindin Hernawan
+dalam hal 0 mungkin iya soalya nanti dituntunt untuk membuat berkas isolinux (berkas iso disc yang bootable) dari membuat folder
+makasih atas jawabannya mas
+ET - GL Fihan Dilan
+ET - GL D. Syafa’atul Anbiya
+kyak composer kah?
+nah kalo di php ada ini ni, package managernya php
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+nah kalo di php ada ini ni, package managernya php
+ya betul
+ET - GL Fihan Dilan
+Dindin Hernawan
+secara garis besarnya packet manager itu yang memiliki tanggung jawab dalam hal paket2 yang terpasang yang perlu diupdate atau u
+terima kasih kayak dah paham
+Dindin Hernawan
+admin
+repository itu tempat berkas2 paket2 yang tersusun rapih. nah apt itu sebenarnya melakukan cross cek versi dari lokal pemaketan ke servernya yang disimpan di repository semacam http://packages.linuxmint.com/pool/ itulah kenapa kita sebagai user linux begitu mudah nya mengupdate software atau mengintall sesuatu
+[local] apt <=====> repository [internet] (isinya kumpulan changelog paket .deb sorce codenya tgz dll)
+ET - GL Fihan Dilan
+Dindin Hernawan
+repository itu tempat berkas2 paket2 yang tersusun rapih. nah apt itu sebenarnya melakukan cross cek versi dari lokal pemaketan
+oh mirip-mirip seperti packace managernya suatu bahasa pemrograman ya?
+Dindin Hernawan
+admin
+exsample [local] firefox v 50 <=========> repository firefox v 60 maka ketiaka melakukan apt update sebenarnya kita melakukan cross cek version
+ketika apt upgrade local dengan repo disamakan maka terjadilah download berkas .deb dan dpkg sebagai pemasangannya melakukan otomatis sesuai script dan arahan paket manager apt
+archcipe berkasnya ada di folder /var/cache/apt/archives
+100 KB
+ET - GL Fihan Dilan
+menarik bang nanti akan saya coba searching2 mengenai cara kerja package manager di linux :)
+Dindin Hernawan
+admin
+untuk membersihkannya kita bisa gunakan perintah sudo apt-get clean jadi space disk bertambah karena itu cache
+baiklah menarik sekali memang sisem operasi gnu/linux ini karena yang dibahas begitu luas , adakah hal lain yang ingin ditanyakan sebelum melanjutjan ke sesi berikutnya
+ET - GL Fihan Dilan
+boleh lanjut bang
+ET - GL D. Syafa’atul Anbiya
+lanjut bang
+Dindin Hernawan
+admin
+baiklah, selanjutnya adalah mengenai laporan nya ya ditunggu dan untuk format sertkan username telegramnya karena saya kesulitan mencocokan ini yang mengirim siapa
+dan saya akan membalas via email ya mengenai laporannya jadi yang belum bisa stay terus sampai dinyatakan dan ada balasan
+sampai sini ada yang mau ditanyakan dalam laporannya
+ET - GL Fajar Alfansyah
+Untuk laporannya tentang apa mas
+ET - GL Fihan Dilan
+untuk pertemuan kali ini laporannya tentang apa bang?
+Dindin Hernawan
+admin
+laporan itu cuma 1 dalam minggu ini batasnya sampai pertemuan 3
+jadi materi disampaikan di pertemuan 1 dan pertemuan 2, 3 adalah membahas laporan serta diskusi dan mengenai tujuan dari e-training ini
+ET - GL Arip Id
+Dindin Hernawan
+jadi materi disampaikan di pertemuan 1 dan pertemuan 2, 3 adalah membahas laporan serta diskusi dan mengenai tujuan dari e-train
+Mas mau tanya nanti kedepannya,basic tentang terminal akan di bahas juga g?
+ET - GL Fandi
+Dindin Hernawan
+baiklah, selanjutnya adalah mengenai laporan nya ya ditunggu dan untuk format sertkan username telegramnya karena saya kesulitan
+Saya kemarin lupa mas tidak mencantumkan username tele saya tapi tadi sudah saya balas email masnya hehe maaf mas
+Dindin Hernawanadmin
+ET - GL Arip Id
+Mas mau tanya nanti kedepannya,basic tentang terminal akan di bahas juga g?
+ada di pertemuan minggu 3&4 dan ini di undang ya perlu e-sertifikat juga
+ET - GL Arip Id
+Dindin Hernawan
+ada di pertemuan minggu 3&4 dan ini di undang ya perlu e-sertifikat juga
+Owh makasih mas,atas informasinya
+Dindin Hernawan
+admin
+Jadi diharapkan mengerjakan ya karena ini dasar dari lampiran E-Certifikat Juga jadi menguatkan E-Certifikantnya karena kalau membuat E-Certifikat dibagikan secara langsung perlu adanya dasar yang dilakukan member sebagai nilai dari analisa dan keahliannya. leebih beratnya lagi di pertemuan 3&4 lampirannya banyak meliputi isolinux dan lainnya lampiran script juga baik script bash dan lain2
+ET - GL Fajar Alfansyah
+Oke mas siap
+Dindin Hernawan
+admin
+saya mengerjakan ini secara sukarela dalam membagikan pengalaman serta ilmu2nya semoga bermanfaat bagi member disini semuanya :) sama menaikan level skillnya biar ngga stuck disitu2 aja dalam menjalakan sistem operasinya. harus ada nilai perubahannya :) so waktu pertanyaan akan ditutup sampai. 9:30 selanjutnya chat sesuai topik .
+ET - GL D. Syafa’atul Anbiya
+wah sekarang yang online cuma 2, saya bingung mau tanya apa
+ET - GL Fihan Dilan
+Dindin Hernawan
+saya mengerjakan ini secara sukarela dalam membagikan pengalaman serta ilmu2nya semoga bermanfaat bagi member disini semuanya :)
+iya bang, semangat lanjutin terus e-training nya :)
+ET - GL D. Syafa’atul Anbiya
+wah sekarang yang online cuma 2, saya bingung mau tanya apa
+tanya apa saja bang, aslakan mengenai linux hehe
+ET - GL D. Syafa’atul Anbiya
+ET - GL Fihan Dilan
+iya bang, semangat lanjutin terus e-training nya :)
+siap tentunya
+Dindin Hernawan
+admin
+ok, sesi saya tutup ya, dan dilajutkan silahkan berdiskusi ya sesuai topik, saya mewakili acara dari mas firman dan gio undur dri sampai bertemu di acara finalnya minggu 1 yaitu pertemuan ketiga, jika ada kata typo dan informasi yang kurang berkenan mohon dimaafkan ya, terinakasih telah mengikuti pertemuan ini. selamat malam dan Wasalamu'alaikum Wr.  Wb.
+Dindin Hernawan pinned «<==== START LOG CHAT RECORD ====>»
+ET - GL D. Syafa’atul Anbiya
+waalaikumsalam, terima kasih mas
+ET - GL Trysked
+Dindin Hernawan
+ok, sesi saya tutup ya, dan dilajutkan silahkan berdiskusi ya sesuai topik, saya mewakili acara dari mas firman dan gio undur dr
+waalaikumsalam wr. wb
+ET - GL Fihan Dilan
+Dindin Hernawan
+ok, sesi saya tutup ya, dan dilajutkan silahkan berdiskusi ya sesuai topik, saya mewakili acara dari mas firman dan gio undur dr
+waalaikum salam wr. wb
+Dindin Hernawanadmin
+<==== FINISH LOG CHAT RECORD ====>

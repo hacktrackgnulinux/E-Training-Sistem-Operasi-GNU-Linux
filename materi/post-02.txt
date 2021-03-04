@@ -1,0 +1,45 @@
+Pertemuan 01/02
+Acara Akan Dimulai Hari Ini
+Pukul : 08:00 - 09:30 WIB Malam
+
+Persiapan yang harus disiapkan : 
+- Aktif Telegram
+- Aktifkan Laptop & Stay Online
+- Saling Menyapa
+- Diskusi Mengenai Laporan
+- Diskusi Sistem Operasi Materi yang sudah di sampaikan sebelumnya.
+
+Tujuan Pengumpulan Laporan :
+- Agar mengenal Operating Sistem yang digunakan saat ini.
+- Menambah analisa dan melatih mengenali sistem operasi secara
+  individual.
+- Melatih menggunkan aplikasi2 yang ada di operating sistem saat ini
+  dalam penyusunan laporan.
+- Melatih dalam melakukan kegiatan pengiriman data melalui e-mail.
+
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang kembali dipertemuan kedua minggu satu
+Elektronik Training Sistem Operasi GNU/Linux
+
+Sesions Tanya Jawab dengan Developer 
+
+Tujuan dari E-Training ini adalah :
+Manfaat Materi Minggu 1
+1. Mengetahui sejarah guna informasi operating sistem yang terkait 
+   dan sedang digunakan.
+2. Dituntut untuk bisa memecahkan dalam melaporkan permasalan karena sudah
+   Mengenal informasi operating sistem sebelumnya.
+3. Menjadi wadah yang terbuka dalam berpengetahuan dan acara eksplorasi
+   dalam memahami sistem operasi lebih dalam.
+
+Manfaat Materi Minggu 2
+4. Dengan mengikuti E-Training ini, member bisa mengatasi permasalahan
+   dalam menginstall sistem operasi secara baik dan benar. karena ada materi
+   yang akan membahas seluk beluk permasalahan dan dasar-dasar installasi.
+
+Manfaat Materi Minggu 3-4 (Undangan khusus untuk Sesi yang telah mendapatkan e-seftifikat)
+5. Member disini dituntut dapat membangun bahkan berkontribusi dalam
+   membangun sistem operasi itu sendiri.
+6. Setelah Lulus dari E-training ini diusahakan ilmu yang diberikan di pubikasikan
+   atau dibagi atau digunakan sebagai wadah dalam mencari pendapatan atau apapun
+   yang berkaitan dengan sistem operasi.
