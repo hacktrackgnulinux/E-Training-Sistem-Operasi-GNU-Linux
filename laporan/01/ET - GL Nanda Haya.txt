@@ -1,0 +1,42 @@
+Laporan Sistem Operasi Arch OS 5.11.1-arch1-1
+Dibuat oleh : Nanda Fajri Z Haya
+
+Digunakan untuk memenuhi persyaratan dalam mengikuti sesi berikutnya
+dalam E-Training Sistem Operasi GNU/Linux
+
+[fj_nate@yuhuuu ~]$ neofetch
+                   -`                    fj_nate@yuhuuu 
+                  .o+`                   -------------- 
+                 `ooo/                   OS: Arch Linux x86_64 
+                `+oooo:                  Host: Aspire E5-475G V1.19 
+               `+oooooo:                 Kernel: 5.11.1-arch1-1 
+               -+oooooo+:                Uptime: 1 min 
+             `/:-:++oooo+:               Packages: 1240 (pacman), 19 (flatpak 
+            `/++++/+++++++:              Shell: bash 5.1.4 
+           `/++++++++++++++:             Resolution: 1366x768 
+          `/+++ooooooooooooo/`           DE: GNOME 3.38.3 
+         ./ooosssso++osssssso+`          WM: Mutter 
+        .oossssso-````/ossssss+`         WM Theme: Adwaita 
+       -osssssso.      :ssssssso.        Theme: Adwaita [GTK2/3] 
+      :osssssss/        osssso+++.       Icons: Adwaita [GTK2/3] 
+     /ossssssss/        +ssssooo/-       Terminal: gnome-terminal 
+   `/ossssso+/:-        -:/+osssso+-     CPU: Intel i5-7200U (4) @ 3.100GHz 
+  `+sso+:-`                 `.-/+oso:    GPU: Intel HD Graphics 620 
+ `++:.                           `-/+/   GPU: NVIDIA GeForce 940MX 
+ .`                                 `/   Memory: 765MiB / 7823MiB 
+
+
+	Arch Linux (dikenal juga dengan ArchLinux atau Arch) adalah sebuah distribusi Linux untuk komputer i686 dan x86_64 yang didesain untuk menjadi ringan dan sederhana. Cara pengucapan Arch Linux adalah [ɑːrtʃ] atau [aːtʃ] (seperti pada kata archer atau parchment). Yang diciptakan oleh Judd Vinet. Pendekatan desain pengembang distro ini berfokus pada kesederhanaan, kebenaran program dan minimalisme. "Kesederhanaan" didefinisikan sebagai "tak perlu tambahan, modifikasi, atau komplikasi" sesuai sudut pandang pengembangnya, bukan sudut pandang pengguna.
+	
+	Archlinux adalah sebuah Distribusi Linux berbasis binary, yang artinya, paket-paket aplikasi didistribusikan dalam bentuk telah terkompilasi. Berbeda dengan Gentoo yang mendistribusikan paket-paketnya dalam bentuk kode.
+	
+	Paket media instalasi Arch Linux standar relatif minimal. Ketika masuk ke media instalasi, kita akan diberikan command-line interface. Biasanya panduan instalasi dasar akan disediakan di direktori home root, namun saya diberi kebebasan bagaimana dan seperti apa sistem akan dipasang. Sebagai contoh, saya bisa memilih untuk:
+	
+	Pasang dengan UEFI atau legacy boot
+	Pasang dengan RAID, LVM, atau flat
+	Pasang desktop environment, atau cukup CLI
+	Memilih kakas pengaturan jaringan (systemd-network, NetworkManager, dll) dan masih banyak lagi.
+
+Dengan alasan tersebut lingkup pemasangan Arch Linux relatif lebih luas, dan dapat lebih optimal jika kita paham lebih dalam.
+
+	Selain paket yang ada pada repositori standar. Arch juga memiliki repositori yang dikembangkan oleh pengguna lain, repositori ini dikenal dengan AUR. Pada AUR saya perlu mengunduh PKGBUILD yang berisi deskripsi dan informasi paket, melakukan kompilasi dan pembuatan paket dengan makepkg, lalu melakukan instalasi dengan pacman. Proses tersebut juga dapat dipermudah dengan paket untuk manajemen paket lanjutan seperti yay.
