@@ -1,0 +1,99 @@
+Laporan Distro Linux Parrot OS
+Dibuat oleh: @akutagawaxyz
+
+Digunakan Untuk Memenuhi Persyaratan dalam Mengikuti Sesi Berikutnya
+dalam E-Training Sistem Operasi GNU/Linux
+
+Linux Parrot 5.5.0-1parrot1-amd64 #1 SMP Parrot 5.5.17-1parrot (2020-04-25) x86_64 GNU/Linux
+
+
+1. SEJARAH PARROT OS
+Parrot didasarkan pada cabang pengujian Debian (Bullseye), dengan kernel Linux 5.8. Ini mengikuti model 
+pengembangan rilis bergulir.Lingkungan desktop adalah MATE dan KDE , dan manajer tampilan default adalah 
+LightDM. Sistem disertifikasi untuk berjalan pada perangkat yang memiliki RAM minimal 256MB , dan cocok 
+untuk arsitektur prosesor 32-bit ( i386 ) dan 64-bit (amd64). Selain itu, proyek ini tersedia untuk 
+arsitektur ARMv7 ( armhf ).
+
+Pada Juni 2017, Tim Parrot mengumumkan bahwa mereka mempertimbangkan untuk beralih dari Debian ke Devuan, 
+terutama karena masalah dengan systemd. Mulai 21 Januari 2019, tim Parrot telah mulai menghentikan pengembangan 
+ISO 32-bit ( i386 ) mereka secara bertahap.
+Pada Agustus 2020, Parrot OS secara resmi mendukung Lightweight Xfce Desktop. Parrot didasarkan pada cabang 
+pengujian Debian (Bullseye), dengan kernel Linux 5.8. Ini mengikuti model pengembangan rilis bergulir.
+Lingkungan desktop adalah MATE dan KDE , dan manajer tampilan default adalah LightDM.
+
+
+2. TENTANG PARROT OS
+
+Parrot Linux adalah distro yang khusus di desain untuk Pentesting, Computer Forensic, Reverse Engineering dan Hacking, 
+Cloud Pentesting, Privacy Anonimity, Cryptograhphy. Operating System ini berdasarkan pada Debian dan di Bangun oleh 
+Frozen Box Network.
+Dalam rilis resminya Parrot ditujukan untuk setiap orang dari mulai amatir sampai dengan Proffesional, karena menyediakan 
+tool yang telah dikombinasi sedemikian rupa sehingga mudah digunakan, ringan untuk pen testing serta dapat digunakan untuk 
+setiap hari.
+Untuk OS Parrot nya bisa di download di http://www.parrotsec.org/ , ukuranya sekitar 1,8 GB, sampai dengan sekarang sudah 
+dapat versi 1.9 dengan code name CyberLizard.
+
+Adapun fitur fitur lengkap nya adalah :
+
+Pentesting
+
+Fresh & lightweight pentesting environment
+Easy to use automation tools for beginners
+Must-have professional tools for Pro Pentesters
+Custom tools developed by our team
+External tools developed by our community
+Only a selected set of tools is preinstalled out of the box
+Thousands of other tools are available in our repositories
+Cloud
+
+Parrot Server Edition
+Parrot Cloud Controller
+Custom installation script for Debian VPS
+Cloud Pentesting concept for file hosting and remote distributed computing
+Digital Forensic
+
+“Stealth” option at boot for no partitions or swap mounting
+Most famous Digital Forensic tools and frameworks out of the box
+Reliable acquisition and imaging tools
+Top class analysis softwares
+Evidence management and reporting tools
+Cryptography
+
+Custom Anti Forensic tools
+Custom interfaces for GPG
+Custom interfaces for cryptsetup
+NUKE patch for cryptsetup LUKS disks
+Encrypted system installation
+Anonymity
+
+AnonSurf
+Whole-system anonymization
+TOR and I2P out of the box
+DNS requests anonymization
+“Change Identity” function for AnonSurf
+BleachBit system cleaner
+NoScript plugin
+UserAgentOverrider plugin
+Browser profile manager
+RAM-only browser profile
+Pandora’s Box – shutdown RAM cleaner
+Programming
+
+FALCON Programming Language (1.0)
+System editor tuned for programming
+Many pre-installed compilers/interpreters/debuggers
+Reverse Engineering Tools
+Programming Template Files
+Pre-installed most-used libs
+Cryptocurrency
+
+Cryptocurrency-friendly environment
+Custom compiled wallets available in our software center
+MultiBit
+Bitcoin-qt
+Litecoin-qt
+Feathercoin-qt
+BitLira-qt
+Dogecoin-qt
+Zetacoin-qt
+
