@@ -1,0 +1,40 @@
+Laporan Sistem Operasi Ubuntu OS: Ubuntu 20.04.2 LTS
+Dibuat oleh : M.yais Alghifari
+
+Digunakan Untuk Memenuhi Persyaratan dalam Mengikuti Sesi Berikutnya
+dalam E-Training Sistem Operasi GNU/Linux
+
+__  __              _     
+|  \/  | _   _  __ _(_)___ 
+| |\/| || | | |/ _` | / __|
+| |  | || |_| | (_| | \__ \
+|_|  |_(_)__, |\__,_|_|___/
+         |___/             
+            .-/+oossssoo+/-.               myais@myais23-Satellite-L740 
+        `:+ssssssssssssssssss+:`           ---------------------------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.2 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: Satellite L740 PSK6XL-007001 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.8.0-44-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 1 hour, 31 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 1960 (dpkg), 17 (snap) 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.0.17 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1366x768 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: GNOME 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Adwaita 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru-dark [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: ubuntu-mono-dark [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: Intel i3 M 350 (4) @ 0MHz 
+    .ossssssssssssssssssdMMMNysssso.       GPU: Intel Core Processor 
+      -+sssssssssssssssssyyyssss+-         Memory: 1317MiB / 3734MiB 
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.                                       
+                             
+ 
+Ubuntu pertama rilis pada 20 Oktober 2004. Ubuntu adalah salah satu distribusi Linux yang berbasis pada Debian dan memiliki interface desktop. Proyek Ubuntu disponsori oleh Canoncial Ltd (perusahaan milik Mark Shuttleworth).
+
+Asal usul Ubuntu :
+Nama Ubuntu di ambil dari sebuah konsep idealogi di Afrika selatan. "Ubuntu" berasal dari bahasa kuno Afrika, yang berarti "Rasa perikemanusiaan terhadap sesama manusia". Ubuntu juga bisa berarti "Aku adalah aku karena keberadaan kita semua". Tujuan dari distribusi Linux Ubuntu adalah membawa semangat yang terkandung dalam Ubuntu ke dalam dunia perangkat lunak.
+
+Proyek Ubuntu resmi disponsori oleh Canoncial Ltd. yang merupakan sebuah perusahaan yang di miliki oleh pengusaha Afrika selatan Mark Shttlewoeth. Tujuan dari distribusi Linux Ubuntu adalah membawa semangat yang terkandung di dalam filosofi Ubuntu dalam dunia perangkat lunak. Ubuntu adalah sistem operasi lengkap berbasis linux, tersedia secara bebas, dan mempunyai dukungan baik yang berasal dari komunitas maupun tenaga ahli profesional. Linux Ubuntu dapat di kunjungi di situs resmi https://ubuntu.com                                 
