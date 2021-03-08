@@ -1,0 +1,40 @@
+ _____ _____            ____ _     
+| ____|_   _|          / ___| |    
+|  _|   | |    _____  | |  _| |    
+| |___  | |   |_____| | |_| | |___ 
+|_____| |_|            \____|_____|
+  E-Training Sistem Operasi GNU/Linux                                 
+--------------------------------------------
+========================================
+KEPUTUSAN MEMUNDURKAN ACARA MINGGU 2 AGAR YANG BELUM MEMBUAT LAPORAN
+BISA MENYELESAIKANNYA
+========================================
+02  Pertemuan Minggu 2  (3x Pertemuan)
+    Tanggal Pertemuan : 15 Maret, 17 Maret, 19 Maret 2021 (Pukul 20:00 - 21:30)
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk
+                  Tabel Satuan Kapasitas Penyimpanan
+                  Pengenalan Pemartisian
+                  File System di Linux
+                  Struktur Directory
+
+    Tugas : Membuat Laporan Mengenai Pengetahuan Umum Installasi yang dikerjakan.
+            Sample : Laporan GPT & MBR (Isinya Mengenai GPT, MBR dan Informasinya Yang Terkait)
+            
+            Minimal 2 Halaman (Judul & Pembahasan) Format Bebas. (.txt .pdf .odt .md dll)
+            Dikirimkan Via E-Mail 'dindin_hernawan@yahoo.com'
+            Subject E-Mail 'Laporan Pengetahuan Umum Installasi'
+			Pada Isi Pesan E-Mail Cantumkan Username Telegramnya
+--------------------------------------------
+
+Materi 02/04 15 Maret 2021
+Pengetahuan Umum Installasi
+
+Materi 02/05 17 Maret 2021
+Diskusi dan Laporan Minggu 02 'Laporan Pengetahuan Umum Installasi'
+
+Materi 02/06 19 Maret 2021
+Diskusi dan Penyerahan E-Certifikat yang Valid
+
+--------------------------------------------
+
