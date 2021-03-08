@@ -13,7 +13,7 @@
             Subject E-Mail 'Laporan Mengenai Distribusi GNU/Linux'
     
 02  Pertemuan Minggu 2  (3x Pertemuan)
-    Tanggal Pertemuan : 8 Maret 10 Maret 12 Maret 2021 (Pukul 20:00 - 21:30)
+    Tanggal Pertemuan : 15 Maret, 17 Maret, 19 Maret 2021 (Pukul 20:00 - 21:30)
     Materi : Pengetahuan Umum Installasi
              - Pengenalan Hardisk
                   Tabel Satuan Kapasitas Penyimpanan
