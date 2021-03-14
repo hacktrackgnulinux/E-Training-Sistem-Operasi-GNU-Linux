@@ -1,0 +1,14 @@
+02  Pertemuan Minggu 2  (3x Pertemuan)
+    Tanggal Pertemuan : 15 Maret, 17 Maret, 19 Maret 2021 (Pukul 20:00 - 21:30)
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk
+                  Tabel Satuan Kapasitas Penyimpanan
+                  Pengenalan Pemartisian
+                  File System di Linux
+                  Struktur Directory
+
+Persiapan yang harus disiapkan : 
+- Aktif Telegram
+- Optional Aktifkan Laptop & Stay Online
+- Saling Menyapa
+- Diskusi Pengetahuan Umum Installasi.
