@@ -1,0 +1,296 @@
+
+<=== START RECORD CHAT ===>
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang kembali dipertemuan kedua minggu satu
+Elektronik Training Sistem Operasi GNU/Linux.
+ET - GL Nanda Haya
+Waalaikumsallam
+ET - GL M.Yais
+Waalaikumsalam
+Dindin Hernawan
+admin
+Sebelumnya ada perubahan kebijakan, jadi yang belum membuat laporan tidak apa, boleh
+mengikuti materi minggu 2 hanya saja untuk mendapatkan E-Certifikat harus mengirimkan
+2 laporan dari minggu 1 dan 2. :) @all
+Dindin Hernawan pinned «<=== START RECORD CHAT ===>»
+Dindin Hernawan pinned «Sebelumnya ada perubahan kebijakan, jadi yang belum membuat laporan tidak apa, boleh mengikuti materi minggu 2 hanya saja untuk »
+ET - GL Akbar
+Waalaikumsalam
+Dindin Hernawan
+admin
+baiklah kita mulai materinya :
+Materinya :
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk 2/1
+                  - Tabel Satuan Kapasitas Penyimpanan 2/1
+                  - Pengenalan Pemartisian 2/2
+                  - File System di Linux 2/3
+                  - Struktur Directory 2/3
+pertemuan kali ini akan membahas - Pengenalan Hardisk 2/1 dan - Tabel Satuan Kapasitas Penyimpanan 2/1
+Pertemuan 02/01 
+1. Pengenalan Hardisk (Storages Devices) ?
+105 KB
+Dalam melakukan sebuah installasi sistem ada baiknya kita mengenal hardisk itu sendiri sebagai media yang akan menyimpan berkas2 dari sistem operasi tersebut.
+Pengenalan Hardisk
+Hardisk ATA/IDE
+ATA (Advanced Technology Attachment)
+standar adalah interface standar yang memungkinkan
+anda untuk menghubungkan perangkat penyimpanan
+kekomputer PC. Standar ATA dikembangkan pada
+tanggal 12 Mei 1994 oleh ANSI (dokumen X3.221-
+1994).Meskipunnamaresmi “ATA”, standar ini lebih
+dikenal dengan istilah komersial IDE (Integrated Drive
+Electronics)
+atau
+Enhanced IDE (EIDE atau E-IDE).
+Standar ATA awalnya ditujukan untuk menghubungkan hard
+drive ,namun ekstensi yang disebut ATAPI (ATA Packet Interface)
+telah dikembangkan untuk dapat antarmuka perangkat
+penyimpanan lain ( CD-ROM drive , DVD-ROM drive , dll) pada
+ATA interface.
+64 KB
+Hardisk bertipe ATA / IDE ini sekarang sudah jarang, tapi tidak untuk dibeberapa installasi lama hardisk tipe ini sering ditemui.
+dan yang kedua adalah jenis SATA
+Hardisk SATA
+Serial Advanced Technology Attachment (SATA) adalah
+bus primer pada komputer yang didesain untuk
+mentransfer data antara motherboard
+dan media penyimpanan data, seperti
+hard disk dan optical drive di dalam
+komputer.
+Keuntungan
+utama
+menggunakan hard disk SATA
+adalah transfer data yang lebih
+cepat, bisa memindahkan ataupun
+menambah device selama operasi (jika sistem operasinya
+support), kabel yang lebih tipis sehingga proses pendinginan udara dapat efisien, dan banyak
+keunggulan lainnya
+sampai sini ada yang mau bertanya atau menambahkan ? dipersilahkan...
+ET - GL admiral Yudha
+cara harddisk bekerja itu seperti apa, maksutnya cara membaca data dan menulis data di piringan nya
+ET - GL M.Yais
+Bang bedanya HDD sama SSD apa ya?
+Dindin Hernawanadmin
+33 KB
+ET - GL admiral Yudha
+cara harddisk bekerja itu seperti apa, maksutnya cara membaca data dan menulis data di piringan nya
+penjelasan rincinya : Hard drive juga dikenal sebagai hard disk karena piringan yang mereka gunakan berbentuk cakram. Setiap piring dilapisi dengan film tipis khusus dari bahan magnetik yang bidangnya dapat dibalik ketika medan magnet eksternal diterapkan. Film ini selanjutnya dibagi menjadi beberapa segmen terpisah yang masing-masing menyimpan sedikit data.
+
+Ini mirip dengan apa yang terjadi ketika Anda membawa magnet di dekat sepotong besi. Setrika akan mengambil sedikit orientasi magnetik karena medan disesuaikan dengan medan magnet. Dalam kasus hard drive, kepala baca-tulis yang dipasang pada lengan baca-tulis yang bergerak berlaku bidang untuk menulis sedikit. Itu juga dapat membaca orientasi bidang bit yang ditulis sebelumnya untuk mengambil data.
+jadi data disimpan dalam area platter oleh sebab itu hardisk sebenarnya masih bisa di seldiki asalkan platter masih dalam keadaan bagus tanpa tergores atau pun bengkok dalam kasus ini putaran ini akan menghasilkan panas dan ada gaya muai jadi semakin data dipakai terus kondisi hardisk akan berpengaruh
+mirip seperti disket hanya saja disket perlu readernya, nah kalau hardisk ini disket + readernya koneksi nya ada yang tipe IDE dan SATA atau jenis lain
+ET - GL admiral Yudha
+oke kak makasih penjelasan nya
+Dindin Hernawanadmin
+ET - GL M.Yais
+Bang bedanya HDD sama SSD apa ya?
+salah satu perbedaannya dari cara kerjanya Cara kerja SSD dan HDD menjadi perbedaan paling mendasar yang bisa ditemukan. Jika HDD yang selama ini kita gunakan memanfaatkan perpaduan antara sistem mekanik dan elektrik sebagai komponen penunjang performa, maka SSD lebih mengarah ke sistem full-elektrik tanpa adanya part yang bergerak ketika proses penulisan maupun pembacaan data. Ibarat kata, cara kerja SSD mirip seperti proses transfer data yang biasa kita temukan di microSD, RAM, atau USB Flashdisk. Sedangkan cara kerja HDD lebih menyerupai FloppyDisk (disket)
+ET - GL Akbar
+apakah benar umur hardisk tidak tergantung pada jenisnya ?
+ET - GL M.Yais
+Dindin Hernawan
+salah satu perbedaannya dari cara kerjanya Cara kerja SSD dan HDD menjadi perbedaan paling mendasar yang bisa ditemukan. Jika HD
+Makasih bang atas penjelasannya
+ET - GL Fandi
+Izin bertanya mas, apakah benar jika ssd dipartisi (misalnya kita melakukan dualboot di ssd) maka performa dari ssd tersebut kurang maksimal?
+KPGLI - Gio Santos
+ET - GL Fandi
+Izin bertanya mas, apakah benar jika ssd dipartisi (misalnya kita melakukan dualboot di ssd) maka performa dari ssd tersebut kur
+Bisa
+Dindin Hernawanadmin
+ET - GL Akbar
+apakah benar umur hardisk tidak tergantung pada jenisnya ?
+ada benarnya tapi dalam pengalaman dan menurut cara pandang saya , hardisk dipengaruhi tengang stabil power supplay semakin bagus arus yang stabil maka jangka masa pakai hardisk lama (hardisk tipe HDD)
+ET - GL Fandi
+KPGLI - Gio Santos
+Bisa
+Maaf mas sebelumnya, ini bisanya bisa performanya berkurang atau bagaimana ya?
+ET - GL D. Syafa’atul Anbiya
+ET - GL Akbar
+apakah benar umur hardisk tidak tergantung pada jenisnya ?
+maaf maksud jenis hardisk itu ATA sama SATA?
+KPGLI - Gio Santos
+ET - GL D. Syafa’atul Anbiya
+maaf maksud jenis hardisk itu ATA sama SATA?
+SATA
+ET - GL Akbar
+ET - GL D. Syafa’atul Anbiya
+maaf maksud jenis hardisk itu ATA sama SATA?
+ATA , SATA dan SSD mas
+Dindin Hernawanadmin
+ET - GL Fandi
+Izin bertanya mas, apakah benar jika ssd dipartisi (misalnya kita melakukan dualboot di ssd) maka performa dari ssd tersebut kur
+dalam hal ini bisa jadi iya berpengaruh apalagi dualbot antara windows dengan linux akan berpengaruh tapi kalau dual boot anata sesama linux saya raya tidak masalah karena dalam satu format filesystem yang sama ext4 atau yang lain.
+ET - GL Fandi
+Dindin Hernawan
+dalam hal ini bisa jadi iya berpengaruh apalagi dualbot antara windows dengan linux akan berpengaruh tapi kalau dual boot anata
+Ah oke mas terima kasih banyak
+Dindin Hernawan
+admin
+yang paling utama dalam menjaga hardisk adalah pertama power harus bagus, kedua jangan dihabiskan kapasitasnya sisakan 40%
+ET - GL admiral Yudha
+Dindin Hernawan
+yang paling utama dalam menjaga hardisk adalah pertama power harus bagus, kedua jangan dihabiskan kapasitasnya sisakan 40%
+Disisakan 40% ini tujuan nya untuk apa ?
+Dindin Hernawan
+admin
+nah sampai sini ada yang punya ide mengenai hardisk ini ? atau pengalamannya silahkan share, semasila tips backup dan lain2
+ET - GL admiral Yudha
+Disisakan 40% ini tujuan nya untuk apa ?
+menjaga read tidak terlalu berat mengurangi dampak juga terjadinya bad sector
+sudah saya test ko saya memaksimalkan penyimapanan sampai mau habis 3-4 bulan hardinya rusak
+ET - GL admiral Yudha
+Dindin Hernawan
+sudah saya test ko saya memaksimalkan penyimapanan sampai mau habis 3-4 bulan hardinya rusak
+Rusaknya ini seperti apa, apakah readwrite yang sudah menurun ?
+Dindin Hernawan
+admin
+pada SEAGATE pipeline HD 500gb slim
+ET - GL D. Syafa’atul Anbiya
+bagi yang belum tau, jangan shutdown mendadak, ntah itu matiin laptop langsung pencet tombol power atau cabut kabel powernya.. mattin laptop/pc sesuai procedure, kecuali darurat seperti hang
+Dindin Hernawanadmin
+ET - GL admiral Yudha
+Rusaknya ini seperti apa, apakah readwrite yang sudah menurun ?
+dead tidak terdeteksi BIOS/UEFI .
+ET - GL admiral Yudha
+yang rusak elektronik nya ya kak ? piringan nya aman ?
+ET - GL D. Syafa’atul Anbiya
+mau tanya, kalau sudah pakai SSD tidak perlu buat partisi SWAP ya?
+Dindin Hernawanadmin
+ET - GL admiral Yudha
+yang rusak elektronik nya ya kak ? piringan nya aman ?
+ya betul readernya yang rusak kalau disk nya aman
+ET - GL Fajar Alfansyah
+Dindin Hernawan
+yang paling utama dalam menjaga hardisk adalah pertama power harus bagus, kedua jangan dihabiskan kapasitasnya sisakan 40%
+Untuk tidak overheat?
+ET - GL Fandi
+Dindin Hernawan
+dead tidak terdeteksi BIOS/UEFI .
+Hmm ngeri juga ya mas
+Dindin Hernawanadmin
+ET - GL Fajar Alfansyah
+Untuk tidak overheat?
+kalau dalam kasus CPU DEsktop masalhnya ada di suhu dalam CPU untuk itu perlu adanya kipas menjaga suhu, dan kebersihan juga. karena disk ini bisa memuai
+ET - GL D. Syafa’atul Anbiya
+mau tanya, kalau sudah pakai SSD tidak perlu buat partisi SWAP ya?
+optional aja saran saya jangan dipakai :)
+ET - GL Fandi
+Oh iya mas mau tanya lagi nih misal kita punya partisi swap tuh katakanlah kebesaran nah mau di partisi lagi terus digabungin sama partisi / itu bisa ga mas?
+ET - GL admiral Yudha
+bisa di resize
+Dindin Hernawan
+admin
+baiklah selajutnya materi dilanjutkan ya
+ET - GL Fandi
+Oh iya mas mau tanya lagi nih misal kita punya partisi swap tuh katakanlah kebesaran nah mau di partisi lagi terus digabungin sa
+ya bisa ko di resize
+ET - GL Fandi
+Oke mas terima kasih
+ET - GL D. Syafa’atul Anbiya
+Dindin Hernawan
+baiklah selajutnya materi dilanjutkan ya
+This message is currently not supported on Telegram Web. Try getdesktop.telegram.org.
+Dindin Hernawan
+admin
+yang kedua ini kita harus memahami kapistas atara standar dengan trdisional kapsitasnya. karena linux bukan memakai tradisional tapi standat IEC
+2. Tabel Satuan Kapasitas Penyimpanan ?
+75 KB
+silahkan di buka gambarnya
+Dindin Hernawan pinned «2. Tabel Satuan Kapasitas Penyimpanan ?»
+Dindin Hernawan
+admin
+Tabel Satuan Kapasitas Peyimpanan Data sesuai Tradisional dan Standar IEC dalam satuan (Byte):
+EC (International Electrotechnical Commission) adalah suatu ornop
+standardisasi
+internasional
+nirlaba
+yang
+menyiapkan
+dan
+mempublikasikan standar internasional untuk semua teknologi elektrik,
+elektronika, dan teknologi lain yang terkait, yang secara kolektif dikenal
+dengan "elektroteknologi". Standar IEC meliputi berbagai teknologi dari
+pembangkitan, transmisi, dan distribusi listrik hingga perlengkapan rumah
+tangga dan perlengkapan kantor, semikonduktor, serat optik, baterai,
+Keterangan : Logo IEC tenaga surya, nanoteknologi dan tenaga air laut, serta berbagai hal lain.
+IEC juga mengelola skema penilaian kesesuaian yang menyatakan apakah
+suatu perangkat, sistem, atau komponen sesuai dengan standar internasional.
+ET - GL Fajar Alfansyah
+Dindin Hernawan
+kalau dalam kasus CPU DEsktop masalhnya ada di suhu dalam CPU untuk itu perlu adanya kipas menjaga suhu, dan kebersihan juga. ka
+Brrti untuk menjaga suhu ttp stabil aja?
+Dindin Hernawan
+admin
+nah sampai sini ada pertanyaan ? mengenai Tabel Kapasitas ? atau ada yang pernah jumpai dalam installasi mode costume tentunya sering menemui satuan ini
+ET - GL Fajar Alfansyah
+Brrti untuk menjaga suhu ttp stabil aja?
+ya betul makanya data center suka di cuaca yang dingin pernah dengar ? data center microsoft disimpan dibawah laut
+www.cloudcomputing.id › berita › inovasi-baru-dari-m...
+15 Sep 2020 — Microsoft lakukan percobaan untuk meletakkan data center tersebut di dasar laut untuk mengurangi biaya karena memanfaatkan pendinginan
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXppm5ubLvAhXCfH0KHT_jDFoQFjAEegQIFBAD&url=https://www.cloudcomputing.id/berita/inovasi-baru-dari-microsoft-data-center-di-dasar-laut&usg=AOvVaw00PT37BJ4G7KK96EIz-oBK
+ET - GL D. Syafa’atul Anbiya
+Dindin Hernawan
+nah sampai sini ada pertanyaan ? mengenai Tabel Kapasitas ? atau ada yang pernah jumpai dalam installasi mode costume tentunya s
+saya mau tanya dong, untuk partisi EFI, kenapa setiap distro beda2, ada yg minimal harus 1GB, tpi ada jga yg bebas
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+saya mau tanya dong, untuk partisi EFI, kenapa setiap distro beda2, ada yg minimal harus 1GB, tpi ada jga yg bebas
+ya betul sekali ada yang 100mb - 1gb. ada yang bisa menjawab ? menurut pandangan teman2 disini
+ET - GL Fajar Alfansyah
+Dindin Hernawan
+ya betul makanya data center suka di cuaca yang dingin pernah dengar ? data center microsoft disimpan dibawah laut
+Iya bener juga sih cman kalo suhunya stabil kan juga bisa mencegah overheat
+ET - GL Fandi
+Dindin Hernawan
+ya betul sekali ada yang 100mb - 1gb. ada yang bisa menjawab ? menurut pandangan teman2 disini
+Menurut saya setiap distro kan beda beda ukurannya mungkin menyesuaikan itu si mas hehe
+ET - GL Fajar Alfansyah
+ET - GL D. Syafa’atul Anbiya
+saya mau tanya dong, untuk partisi EFI, kenapa setiap distro beda2, ada yg minimal harus 1GB, tpi ada jga yg bebas
+Iya mungkin kalo buat yg bebas mungkin bisa jadi emng bisa jadi unlimited:v
+Dindin Hernawanadmin
+ET - GL Fandi
+Menurut saya setiap distro kan beda beda ukurannya mungkin menyesuaikan itu si mas hehe
+ya betul juga karena EFI ini dipengaruhi oleh bootloadernya juga semisal GRUB2 dan lilo. kasus pemasangan efi yang gagal adalah pada ubuntu install managernya yang biasanya harus dibuat partisi efi manual :)
+ET - GL Fajar Alfansyah
+Bisa juga menyesuaikan data bawaan juga wkwk
+ET - GL D. Syafa’atul Anbiya
+Dindin Hernawan
+ya betul juga karena EFI ini dipengaruhi oleh bootloadernya juga semisal GRUB2 dan lilo. kasus pemasangan efi yang gagal adalah
+nah ini sering terjadi, ketika install linux yang di hdd/ssd baru, sering error pas install nya, "Unable to install GRUB in /dev/sda" when installing GRUB
+jadi hrus boot repair dulu biar grub ke install
+Dindin Hernawan
+admin
+ok materinya sampai disini untuk pengenalan. besok adalah materi inti ada banyak sekali pemahaman mengenai pemartisian. intinya ada istilah sda1 sda2 sda ? atau primary partition ? mbr gpt semua dibahas
+saya juga menyusun materi partisian ini sangat rinci dan sesuai gambar yang mudah dipahami
+51 KB
+seperti itu kira2
+baiklah acara saya tutup samapi disini. alhamdulillah, terimakasih kepada rekan yang suda hadir di e-training ini semoga sehat selalu. dan akhir kata saya undur diri Wassalamu'alaikum Wr. Wb. selanjutnya silahkan berdiskusi . sampai waktu pertemuan habis 9:30 :)
+ET - GL admiral Yudha
+oke kak makasih materinyaa
+ET - GL D. Syafa’atul Anbiya
+waalaikumsalam..
+terimakasih bang..
+ET - GL Fandi
+Terima kasih ilmunya mas
+Dindin Hernawan
+admin
+besok adalah materi inti untuk mengurangi salah format karena ini sangat penting jadi disayangkan akalu ngga hadir :)
+ET - GL M.Yais
+Waalaikumsalam makasih atas penjelasannya bang
+ET - GL Fandi
+Mas izin bertanya utk lapotan minggu kedua ini bebas kah namun masih dalam lingkup pemartisian?
+Dindin Hernawanadmin
+ET - GL Fandi
+Mas izin bertanya utk lapotan minggu kedua ini bebas kah namun masih dalam lingkup pemartisian?
+ya betul :)
+ET - GL Fandi
+Baik mas terima kasih
+ET - GL Risa
+Baik mas, terima kasih materinya
+Dindin Hernawan
+admin
+sama2 :) @all
+<=== FINISH RECORD CHAT ===>
