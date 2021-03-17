@@ -1,0 +1,70 @@
+Pertemuan 02/02
+Acara Akan Dimulai Hari Ini
+Senin 17 Maret 2021
+Pukul : 08:00 - 09:30 WIB Malam
+
+Persiapan yang harus disiapkan : 
+- Aktif Telegram
+- Aktifkan Laptop & Stay Online
+- Saling Menyapa
+- Diskusi Mengenai Laporan
+- Diskusi Sistem Operasi Materi yang sudah di sampaikan sebelumnya.
+
+Tujuan Pengumpulan Laporan :
+- Agar mengenal Operating Sistem yang digunakan saat ini.
+- Menambah analisa dan melatih mengenali sistem operasi secara
+  individual.
+- Melatih menggunkan aplikasi2 yang ada di operating sistem saat ini
+  dalam penyusunan laporan.
+- Melatih dalam melakukan kegiatan pengiriman data melalui e-mail.
+
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang kembali dipertemuan kedua minggu satu
+Elektronik Training Sistem Operasi GNU/Linux.
+
+Sebelumnya ada perubahan kebijakan, jadi yang belum membuat laporan tidak apa, boleh
+mengikuti materi minggu 2 hanya saja untuk mendapatkan E-Certifikat harus mengirimkan
+2 laporan dari minggu 1 dan 2. :)
+
+Tujuan dari E-Training ini adalah :
+
+Tujuan Materi Minggu 2
+4. Dengan mengikuti E-Training ini, member bisa mengatasi permasalahan
+   dalam menginstall sistem operasi secara baik dan benar. karena ada materi
+   yang akan membahas seluk beluk permasalahan dan dasar-dasar installasi.
+
+
+MATERI :
+<=== START RECORD CHAT ===>
+-------------------------------------------------------------------------------
+Materinya :
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk 2/1
+                  - Tabel Satuan Kapasitas Penyimpanan 2/1
+                  - Pengenalan Pemartisian 2/2
+                  - File System di Linux 2/3
+                  - Struktur Directory 2/3
+
+
+Pertemuan 02/01 
+1. Pengenalan Hardisk (Storages Devices) ?
+1.png
+2.png
+2. Tabel Satuan Kapasitas Penyimpanan ?
+3.png
+Pertemuan 02/02
+3. Pengenalan Pemartisian ?
+3.3 Pengenalan Pemartisian
+3.3.1 Tabel Partisi Hardisk
+3.3.1.1 Tabel Partisi MBR
+3.3.1.2 Tabel Partisi GPT
+3.3.1.3 Perbedaan Tabel Partisi MBR & GPT
+3.3.2 Penaaman Hardisk di Linux
+3.3.3 Tabel Penaman Hardisk di Linux
+3.3.4 Susunan Partisi Hardisk
+3.3.5 Penamaan Partisi di Linux
+Pertemuan 02/03
+4. File System di Kernel Linux ?
+5. Struktur Directory ?
+-------------------------------------------------------------------------------
+<=== FINISH RECORD CHAT ===>
