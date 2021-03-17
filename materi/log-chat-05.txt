@@ -1,0 +1,597 @@
+
+<=== START RECORD CHAT ===>
+selamat malam semuanya :) Assalamu'alikum Wr. Wb.
+ET - GL admiral Yudha
+Walaikumsalam
+ET - GL Hrlnzyh
+wallaikumsalam mas
+Dindin Hernawan
+admin
+dan selamat datang kembali di
+Elektronik Training Sistem Operasi GNU/Linux. (ET - SOGL)
+ET - GL Nanda Haya
+Waalaikumsallam
+Dindin Hernawan
+admin
+Tujuan Materi Minggu 2 
+4. Dengan mengikuti E-Training ini, member bisa mengatasi permasalahan
+   dalam menginstall sistem operasi secara baik dan benar. karena ada materi
+   yang akan membahas seluk beluk permasalahan dan dasar-dasar installasi.
+ET - GL M.Yais
+Dindin Hernawan
+selamat malam semuanya :) Assalamu'alikum Wr. Wb.
+Waalaikumsalam warahmatullahi wabarakatuh
+Dindin Hernawan
+admin
+baiklah kita mulai penyampaian materinya, setelah kemarin mmbahas seputar hardisk sebagai media penyimpanan dan tabel satuan kapasitas data
+sekarang adalah materi Pengenalan Pemartisian
+Materinya :
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk 2/1
+                  - Tabel Satuan Kapasitas Penyimpanan 2/1
+                  - Pengenalan Pemartisian 2/2
+                  - File System di Linux 2/3
+                  - Struktur Directory 2/3
+ET - GL Fandi
+Waalaikumsalam mas
+ET - GL Hrlnzyh
+siapp
+Dindin Hernawan
+admin
+nah tentunya ini sangat bermanfaat untuk diketahui karena ini akan menimbulkan pengetahuan target installasi kita ke pada partisi yang disediakan tentunya agar tidak menginstal ke bagaian partisi yang meiliki data2.
+baiklah kita mulai
+Pengenalan Pemartisian ?
+18 KB
+3.3 Pengenalan Pemartisian
+Partisi dapat dikatakan sebagai bagian atau daerah dari suatu memori atau media
+penyimpanan lain (hardisk dsb) yang terpisah-pisah secara logis dan berfungsi seolah-olah bagian
+itu terpisah secara fisik.
+jadi bisa dibaratkan lemari baju yang terbuat dari bahan plastik kan ada beberapa wadah yang bertingkat. salah satu wadah tersebut disebut partisi
+Dengan partisi hardisk kita bisa menginstal lebih dari dua sistem operasi dalam sebuah
+komputer. Partisi dilakukan untuk dapat memudahkan saat melakukan perbaikan. Misalkan ada
+salah satu partisi yang rusak, maka kita hanya perlu memperbaiki partisi tersebut, karena partisi
+yang lain tidak terpengaruhi. Partisi juga dapat mempercepat akses ke hardisk.
+kira2 ada pertanyaan sampai sini  mengenai partisi ? sebelum memasuki materi 3.3.1
+Tabel Partisi Hardisk
+ET - GL Hrlnzyh
+kalo tipe ext ext itu penjelasannya gimana ya mas?
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+kalo tipe ext ext itu penjelasannya gimana ya mas?
+itu akan dibahas di pertemuan 02/03 terakhir sebenarnya. jadi yang dinamakan ext itu salah satu jenis file system untuk linux kalau di windos itu NTFS
+ET - GL Hrlnzyh
+oalah baik mas
+soalnya saya belum paham betul bagian itu
+Dindin Hernawan
+admin
+ok, selanjutnya adalah Tabel Partisi Hardisk
+86 KB
+Tabel Partisi Hardisk
+Bisa dikatan partition table ini adalah struktur yang menyimpan informasi dari partisi-partisi
+tadi. Ada 2 tipe partition table yang umum digunakan yaitu MBR (Master Boot Record) dan GPT
+(GUID Partition Table) .
+Tabel Partisi MBR
+Tabel Partisi MBR (Master Boot
+Record). Dalam Tabel Partisi MBR, semua
+informasi yang terdapat dalam disk dicatat
+oleh MBR. Tabel Partisi MBR ini memiliki
+peranan penting dalam sebuah proses booting
+sistem
+operasi.
+Tugas
+utama
+yaitu
+memberikan informasi dan mencari lokasi
+boot sector sistem operasi dalam partisi
+hardisk. Yang mana boot sector bersisi file-file
+dan informasi yang dibutuhkan oleh sistem
+operasi sehingga dapat mencapai startup dan
+sampi ke destop.
+Pada saat Proses booting Tabel Partisi MBR
+(Master Boot Record) memiliki tugas-tugas
+berikut ini
+• Mencari partisi yang aktif (yang dapat melakukan proses booting) dalam tabel partisi.
+• Mencari sektor pertama dari partisi yang aktif untuk mendapatkan boot sector dari partisi
+tersebut.
+• Memuat salinan boot sector dari partisi yang aktif ke dalam memori.
+• Memberikan kontrol selanjutnya kepada kode yang dapat dieksekusi di dalam boot sector.
+14 KB
+57 KB
+Tabel Partiti GPT (GUID Partition Table) merupakan
+standart terbaru dalam teknologi Tabel partisi hardisk.
+Menggunakan teknologi GUID (Global Enique
+Indentifiers) untuk menerjemahkan sebuah partisi. Pada
+partisi di GPT mampu menyimpan hingga 2^64 block
+(128 partisi) dan mendukung penyimpanan hingga 9,44
+ZB (Zettabytes) tiap partisinya.
+jadi Tabel Partisi yang diketahui ada 2 yaitu MBR dan GPT . Nah kalau MBR ini adalah tabel partisi lama yang bisa menggunakan BIOS sedangkan GPT adalah tabel partisi yang biasa disarankan oleh UEFI
+sampai disini mengenai tabel pemartisian ada pertanyaan ? atau ada tambahan untuk materinya dipersilahkan
+ET - GL Hrlnzyh
+mbr sama gpt keduanya dipake disatu os atau gimana ya mas :sweat_smile:
+ET - GL admiral Yudha
+Kelebihan kekurangan nya dong
+Mbr sama gpt
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+mbr sama gpt keduanya dipake disatu os atau gimana ya mas :sweat_smile:
+bagus jadi tabel partisi itu hanya boleh ada 1 dalam 1 hardisk jadi harus pilih MBR atau GPT Begitu :)
+ET - GL admiral Yudha
+Mbr sama gpt
+menarik ini akan kita bahas selanjutnya
+Perbedaan Tabel Partisi MBR & GPT
+ET - GL Hrlnzyh
+ET - GL admiral Yudha
+Mbr sama gpt
+kayanya sih gpt sih, tapi ada kesesuaian gak sih kira kira, contoh kaya mbr lebih ke ini, gpt lebih ke ini gitu?
+Dindin Hernawanadmin
+43 KB
+GPT
+• GPT adalah standar yang relatif baru yang telah diperkenalkan oleh Intel untuk memastikan
+bahwa UEFI diganti dengan sesuatu inovatif dan lebih maju.
+• Tidak ada batas partisi di bawah sistem ini dan untuk alasan yang sama untuk dicatat bahwa
+nomor hanya terbatas berpose dalam hal ini adalah OS.
+• Dibandingkan dengan MBR ukuran disk yang sangat besar dan dapat menahan beban data
+yang dianggap tak terbayangkan.
+• Dengan GPT windows memungkinkan hingga 120 partisi dan tidak perlu diperpanjang
+partisi juga.
+• Ide MBR pelindung ini juga dimasukkan dalam partisi yang menyatakan bahwa ada satu
+partisi yang membentang di atas seluruh hard drive.
+MBR
+• Pada MBR boot disk OS data disimpan dalam satu tempat dan jika data ini adalah ditimpa
+atau rusak maka pengguna adalah dalam kesulitan.
+• MBR juga dikenal sebagai "Master Boot Record" adalah standar industri yang akan
+memastikan bahwa sektor boot tidak seperti GPT terletak di awal drive.
+ET - GL Fajar Alfansyah
+nah kalo nambah partisi jadi 2 brrti harus nambah hardisk lagi mas?
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+kayanya sih gpt sih, tapi ada kesesuaian gak sih kira kira, contoh kaya mbr lebih ke ini, gpt lebih ke ini gitu?
+bagus pertanyaanya emang pengaruhnya ada ketika membuat bootable biasanya MBR itu 32bit OS sedangkan 64bit biasanya GPT atau bisa Hybrid jika melalui RUFUS.
+ET - GL Hrlnzyh
+Dindin Hernawan
+bagus pertanyaanya emang pengaruhnya ada ketika membuat bootable biasanya MBR itu 32bit OS sedangkan 64bit biasanya GPT atau bis
+ohh paham mas makasih
+Dindin Hernawanadmin
+ET - GL Fajar Alfansyah
+nah kalo nambah partisi jadi 2 brrti harus nambah hardisk lagi mas?
+nah kalau ini disebutnya udah beda sebanrnya partisi ini dalam 1 hardisk bisa dibuat sesuai jenis tabel partisinya ada mbr yang hanya memuat 4 partisi primary
+ET - GL Fajar Alfansyah
+nah kalo nambah partisi jadi 2 brrti harus nambah hardisk lagi mas?
+kalau nambah hardisk lagi ya perlu tabel partisi lagi :)
+Dindin Hernawan
+GPT • GPT adalah standar yang relatif baru yang telah diperkenalkan oleh Intel untuk memastikan bahwa UEFI diganti dengan sesuat
+• Boot loader partisi MBT umumnya adalah kode kecil yang akan memastikan bahwa file
+boot yang relatif lebih besar nilai disimpan dari bagian atau partisi drive lain.
+• MBR bekerja baik-baik saja dengan hard drive yang 2TB dalam ukuran dan tidak
+mendukung drive yang lebih besar dari nilai yang disebutkan.
+• Partisi utama adalah untuk diganti dengan partisi extended tidak seperti GPT jika ukuran
+disk melebihi 2TB saat menggunakan MBR.
+ET - GL Hrlnzyh
+Dindin Hernawan
+kalau nambah hardisk lagi ya perlu tabel partisi lagi :)
+iya masuknya jadi 2 lemari dong
+ET - GL Fajar Alfansyah
+iya gapapa mas nyg pnting bisa mbr sama gpt bisa berkombinasi hhe
+Dindin Hernawan
+admin
+selanjutnya kita bahas ya ini sangat penting yaitu 3.3.2
+Penaaman Hardisk di Linux ?
+3.3.2
+Penaaman Hardisk di Linux
+Penamaan Hardisk yang terpasang, jika di Windows kita mengenal hardisk diberi nama
+dengan disk 0 adalah hardisk sata pertama (master) dan disk 1 adalah hardisk sata kedua (slave).
+Pada Linux kita akan menemui sda adalah hardisk sata pertama (master) dan sdb adalah
+hardisk sata kedua (slave). Penjelasannya Lihat Gambar dibawah ini :
+41 KB
+lihat pada gambar ya :)
+jadi dulu itu ada yang disebut jammer pada hardisk jadi hardi itu mau dijadikan sebagai master (booting sistem operasi) atau slave (biasanya digunakan hardisk kedua)
+kalau masang hardisk ada 2 maka yang satunnya harus ke jummper master sisnya slave
+ET - GL Hrlnzyh
+Dindin Hernawan
+kalau masang hardisk ada 2 maka yang satunnya harus ke jummper master sisnya slave
+pas configure hardisknya bukan mas?
+Dindin Hernawanadmin
+27 KB
+ET - GL Hrlnzyh
+pas configure hardisknya bukan mas?
+sebelum menyalakan komputer jadi kita pasangkan dulu jumpernya 1 master dan hardisk satunya lagi slave
+pas waktu rakitannya
+ET - GL Hrlnzyh
+Dindin Hernawan
+chap2-page11-img1.JPG
+oalahh paham paham
+Dindin Hernawan
+pas waktu rakitannya
+maaf tau gambarnya gatau namanya
+Dindin Hernawan
+admin
+nah peenamaan hardisk di linux itu menurut saya bagus
+bayangin pada windows ada 20 hardisk ?
+makas C D E F G  I J K L dst
+setiap hardisk meiliki partisi masing 4 buah ?
+ET - GL admiral Yudha
+Huruf nya habis
+Dindin Hernawan
+admin
+bisa dibanyin mau copy antar disk ?
+kalau dilinux hardisk 1 ada 2 partisi maka
+sda1 sda2
+kalau ada 2 hardisk yang kedua ada 4 partisi maka hasilnya ?
+sda1 sda2 sdb1 sdb2 sdb3 sdb4
+bagus bukan ?
+ET - GL Hrlnzyh
+disk 0 - 999
+buset windows
+Dindin Hernawanadmin
+Dindin Hernawan
+sda1 sda2 sdb1 sdb2 sdb3 sdb4
+nah ini pertanyaan buatkan seperti ini
+ada 3 Hardisk ( HDD 1 3PARTISI HDD 2 1 PARTISI HDD 3 4 PARTISI ) silahkan buatkan
+ET - GL Hrlnzyh
+Dindin Hernawan
+sda1 sda2 sdb1 sdb2 sdb3 sdb4
+anu mas ini kaya yang tadi dijelasin kan, sda sebagai master trus sdb sebagai slave
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+anu mas ini kaya yang tadi dijelasin kan, sda sebagai master trus sdb sebagai slave
+ya
+ET - GL Risa
+Dindin Hernawan
+ada 3 Hardisk ( HDD 1 3PARTISI HDD 2 1 PARTISI HDD 3 4 PARTISI ) silahkan buatkan
+Sda1 sda2 sda3, sdb1, sdc1 sdc2 sdc3 sdc4
+Dindin Hernawanadmin
+ET - GL Risa
+Sda1 sda2 sda3, sdb1, sdc1 sdc2 sdc3 sdc4
+nah iya benar
+ET - GL Hrlnzyh
+ET - GL Risa
+Sda1 sda2 sda3, sdb1, sdc1 sdc2 sdc3 sdc4
+aku bayangin yang di windows gimana
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+aku bayangin yang di windows gimana
+makanya diwindows ada istilahnya letter
+C D E F
+kalau mau lihat penaam aslinay buka cmd ketik diskpart listdisk
+ET - GL Hrlnzyh
+Dindin Hernawan
+C D E F
+oiya disk c, d e f
+paham paham
+Dindin Hernawan
+admin
+baiklah kita lanjutkan
+3.3.3 Tabel Penaman Hardisk di Linux
+21 KB
+Berikut Tabel Penaam hardisk pada linux, di linux jenis hardisk diberi nama dan dibedakan dari
+jenis hardisknya itu sendiri :
+Jenis Hardisk Penamaan Hardisk Di Linux
+ATA/IDE /dev/hda (primary master)
+/dev/hdb (primary slave)
+/dev/hdc (secondary master)
+/dev/hdd (secondary slave)
+dan seterusnya
+/dev/sda (primary master)
+/dev/sdb (primary slave)
+/dev/sdc (secondary master)
+/dev/sdd (secondary slave)
+dan seterusnya
+ini yang menriknya nih
+buka gambar
+dan perhatikan
+ternyata dibedakan penamaannya antara HDD IDE dengan HDD SATA
+sekarang saya buat soal nih
+HDD 1 IDE 4 PARTISI, HDD 2 SATA 3 PARTISI, HDD 3 IDE 1 PARTISI, HDD 4 2 PARTISI HDD URUTAN ===> MASTER SLAVE SLAVE MASTER
+silahkan jangan terkecoh butuh ketelitian
+KPGLI - Gio Santos
+Partisi windows sampai C-Z
+ET - GL D. Syafa’atul Anbiya
+hda1 hda2 hda3 hda4, sda1 sda2 sda3, hdb1, sdb1 sdb2?
+ET - GL Hrlnzyh
+hdd 1
+hda master
+hdb slave
+hdc master
+hdd slave
+
+hdd2
+sda master 
+sdb slave
+sdc master
+
+hdd3
+hda master
+hdb slave
+
+gini bukan ?
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+hdd 1 hda master hdb slave hdc master hdd slave hdd2 sda master sdb slave sdc master hdd3 hda master hdb slave gini bukan ?
+hampir tepat kalau seperti ini namanya penanam hardisk tapi pertanyaannya penamaan partisi
+Dindin Hernawan
+HDD 1 IDE 4 PARTISI, HDD 2 SATA 3 PARTISI, HDD 3 IDE 1 PARTISI, HDD 4 2 PARTISI HDD URUTAN ===> MASTER SLAVE SLAVE MASTER
+jangan terkecoh kita benarkan dulu urutannya
+HDD 1 IDE 4 PARTISI = MASTER
+HDD 2 SATA 3 PARTISI = SLAVE
+HDD 4 2 PARTISI = MASTER 
+HDD 3 IDE 1 PARTISI = SLAVE
+:)
+HDD 4 2 PARTISI = MASTER ?  ide/sata ?
+ternyata pertanyaan kecohan
+urutkan lagi maka hasilnya
+HDD 1 IDE 4 PARTISI = MASTER
+HDD 3 IDE 1 PARTISI = SLAVE
+HDD 2 SATA 3 PARTISI = SLAVE
+nah udah sampai sini silahkan dibenarkan lagi penulisannya
+ET - GL Hrlnzyh
+oalah siap siap
+Dindin Hernawan
+admin
+jadi jawabnnya hda1 hda2 hda3 hda4 hdb1 sda1 sda2 sda3
+loh ko bukan sda sdb sdc ?
+sda itu mewakili penaam hardisk
+sda sdb = 2 hardisk SATA
+ET - GL admiral Yudha
+Agak bingung
+ET - GL D. Syafa’atul Anbiya
+ET - GL D. Syafa’atul Anbiya
+hda1 hda2 hda3 hda4, sda1 sda2 sda3, hdb1, sdb1 sdb2?
+sebelumnya saya ko nggk di reply
+Dindin Hernawan
+admin
+sda1 sda2 sda3 itu berarti = 1 Hardisk SATA ada 3 partisi
+ET - GL Hrlnzyh
+Dindin Hernawan
+HDD 1 IDE 4 PARTISI = MASTER HDD 3 IDE 1 PARTISI = SLAVE HDD 2 SATA 3 PARTISI = SLAVE
+ohh paham paham
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+hda1 hda2 hda3 hda4, sda1 sda2 sda3, hdb1, sdb1 sdb2?
+koreksi dengan pertanyaannya mas :)
+ET - GL Hrlnzyh
+Dindin Hernawan
+HDD 1 IDE 4 PARTISI, HDD 2 SATA 3 PARTISI, HDD 3 IDE 1 PARTISI, HDD 4 2 PARTISI HDD URUTAN ===> MASTER SLAVE SLAVE MASTER
+padahal dikasi bocoran ini
+Dindin Hernawan
+admin
+sampai sini ada yang masih bingung ? sebelum lanjut lebih dalam ini baru penaamannya ya
+saya ulangi buat pertanyaan biaar paham
+ET - GL Hrlnzyh
+Dindin Hernawan
+jadi jawabnnya hda1 hda2 hda3 hda4 hdb1 sda1 sda2 sda3
+anu, mas ini urutannya dari ide dulu baru sata kah?
+Dindin Hernawan
+admin
+tolong buatkan penaamaan untuk HDD 1 IDE MASTER 4 PARTISI DAN HDD 2 IDE SLAVE 2 PARTISI
+ET - GL Hrlnzyh
+anu, mas ini urutannya dari ide dulu baru sata kah?
+Nah betul sekali sebarnya urutan penaman ini diperngaruhi jumper ketika pasang hdd tersebut
+ET - GL Hrlnzyh
+Dindin Hernawan
+tolong buatkan penaamaan untuk HDD 1 IDE MASTER 4 PARTISI DAN HDD 2 IDE SLAVE 2 PARTISI
+hda1 hda2 hda3 hda4 hdb1 hdb2 
+betul gak?
+ET - GL D. Syafa’atul Anbiya
+hda1 hda2 hda3 hda4 hdb1 hdb2
+Dindin Hernawan
+admin
+nah sipp sudah paham2
+ET - GL Hrlnzyh
+mantap lah
+Dindin Hernawan
+admin
+tolong buatkan penaamaan untuk HDD 1 IDE SLAVE 4 PARTISI DAN HDD 2 IDE MASTER 2 PARTISI
+ET - GL Hrlnzyh
+hda1 hda2 hdb1 hdb2 hdb3 hbd4 
+betul kah?
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+hda1 hda2 hdb1 hdb2 hdb3 hbd4 betul kah?
+Periksa kode jumpernya
+Dindin Hernawan
+11.png
+cek gambar ini lagi
+ET - GL Hrlnzyh
+hdb1 hdb2 hdb3 hbd4 hdc1 hdc2
+gini bukan?
+Dindin Hernawan
+admin
+:) mulai terkecoh sebenarnya jawaban yang tadi sudah benar :)
+ET - GL Hrlnzyh
+yaampun maaf maaf
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+hdb1 hdb2 hdb3 hbd4 hdc1 hdc2 gini bukan?
+ko bisa berubah pendapat seharusnya berargument :)
+ET - GL Hrlnzyh
+Dindin Hernawan
+ko bisa berubah pendapat seharusnya berargument :)
+saya belum paham betul, takutnya malah saya salah lebih baik saya belajar mas :sweat_smile:
+ET - GL D. Syafa’atul Anbiya
+sdXY
+X = urutan hdd, misal sda,sdb,sdc
+Y = urutan partisi, misal sda1,sda2
+ya kan?
+sda untuk SATA
+hda untuk IDE
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+saya belum paham betul, takutnya malah saya salah lebih baik saya belajar mas :sweat_smile:
+betul jawaban sudah benar tapi kita perlu penjelasannya jadi ngga dianggap asal ya kan :) okklah saya kira sudah mulai paham dan materi kita lanjutnkan :)
+Dindin Hernawan pinned «sdXY X = urutan hdd, misal sda,sdb,sdc Y = urutan partisi, misal sda1,sda2 ya kan?»
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+sdXY X = urutan hdd, misal sda,sdb,sdc Y = urutan partisi, misal sda1,sda2 ya kan?
+sd itu untuk jenis HDD sata kalau IDE hd dan rangkaian ini tepat sekali
+ET - GL D. Syafa’atul Anbiya
+sdXY X = urutan hdd, misal sda,sdb,sdc Y = urutan partisi, misal sda1,sda2 ya kan?
+ganti  CXY C bisa sd dan hd
+ET - GL Hrlnzyh
+paham paham
+Dindin Hernawan
+admin
+CdXY
+X = urutan hdd, misal sda,sdb,sdc
+Y = urutan partisi, misal sda1,sda2
+
+C =
+s untuk SATA
+h untuk IDE
+Dindin Hernawan pinned «CdXY X = urutan hdd, misal sda,sdb,sdc Y = urutan partisi, misal sda1,sda2 C = s untuk SATA h untuk IDE»
+Dindin Hernawan
+admin
+materi kita lanjutnkan :)
+3.3.4
+Susunan Partisi Hardisk
+ET - GL Hrlnzyh
+Dindin Hernawan
+CdXY X = urutan hdd, misal sda,sdb,sdc Y = urutan partisi, misal sda1,sda2 C = s untuk SATA h untuk IDE
+Cd 
+computer disc kah?
+Dindin Hernawanadmin
+53 KB
+ET - GL Hrlnzyh
+Cd computer disc kah?
+C disini aljabar bisa h atau s
+ET - GL Hrlnzyh
+Dindin Hernawan
+C disini aljabar bisa h atau s
+oalah oke mas
+Dindin Hernawan
+admin
+Untuk mempartisi hardisk, kita memang bebas menentukan berapapun jumlah partisi yang
+akan kita buat namun ada aturan yang harus di pahami. Partisi di bagi menjadi tiga jenis yaitu
+Primary, Extended dan Logical
+nah ternyata 1 partisi itu ada yang primary ada yang extended dan logical
+Primary : Partisi jenis ini maksimal ada 4 buah dalam satu hardisk jika menggunakan tabel partisi
+jenis MBR. Dalam prakteknya, kita cukup membutuhkan satu partisi Primary.
+namun menginstal banyak sistem operasi dalam satu hardisk, dibutuhkan lebih dari satu partisi Primary. Hal
+tersebut berlaku untuk OS yang hanya bisa booting dari partisi Primary, seperti DOS, WIn 3.x dan
+Win 9x. Sedangkan untuk OS lain seperti Win NT, Win Xp, Win Vista, WIn 7, LINUX, OS2, bisa
+booting dari jenis partisi Logical.
+Extended : Untuk jenis partisi ini hanya terdapat satu dalam satu hardisk, digunakan untuk
+menampung partisi Logical. Seperti diketahui dalam satu hardisk dibatasi hanya ada 4
+Primary untuk jenis Partisi tabel MBR dan GPT Maximal ada 128 Primary , untuk
+menciptakan partis lebih banyak, partisi Extended dapat dimanfaatkan. Partisi ini tidak dapat
+menampung data, hanya digunakan untuk menampung partisi Logical. Dengan kata lain,
+partisi Extended adalah partisi Primary yang digunakan untuk menampung partisi Logical.
+Logical : Partisi jenis ini tidak dapat berdiri sendiri. Dia dan teman-temannya harus berada
+dalam partisi Extended. Jadi jika akan dibuat lebih dari 4 partisi, harus dibuat satu partisi
+Extended dan partisi Logical sejumlah yang dibutuhkan.
+mohon diperhatikan gambarnya ya agar paham
+disitu kan ada 3 susunan partisi hardisk jadi hardisknya ada 3 dengan susunan partisi yang beda2
+ada yang mau ditanyakan sebelum saya kasih soal ?
+ingat Tabel Partisi MBR hanya boleh 4 Partisi untuk jenis Primary Partition
+ET - GL D. Syafa’atul Anbiya
+jadi untuk os jaman sekarang, partisi logical bisa di pasang OS ya?
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+jadi untuk os jaman sekarang, partisi logical bisa di pasang OS ya?
+logical ini sebenarnya bukan partisi tapi perlu dibangun dari extened partisi tidak berdiri sendri
+singkatnya gini
+MBR  4 primary ? kan lalu kalau mau buat partisi gimana dong ? maka harus 1 primarynya di jadikan extened
+jadi bisa 3 P 1 E 1 L
+4 Primary = 0 Extended 0 Logical
+3 Primary = 1 Extended 1 Logical
+KPGLI - Gio Santos
+2 P 1 E 2L
+2 Primary = 1Extended 2 Logical
+Dindin Hernawan
+admin
+Pertanyaan ya biar makin paham ?
+Buatkan Skema penulisan 1 Hardisk di Format Tabel Partisi MBR ada 1 Primary dibuat juga tambahan partisi 2 buah partisi buat nyimpan data buatkan skema penulisannya
+ET - GL D. Syafa’atul Anbiya
+1 P 1 E 2 L ?
+ET - GL Hrlnzyh
+1 P 1 E 2 L kah?
+Dindin Hernawan
+admin
+catatanya Extended : Untuk jenis partisi ini hanya terdapat satu dalam satu hardisk, digunakan untuk
+menampung partisi Logical.
+mantullll benar semua
+lagi ya
+ET - GL Hrlnzyh
+lagi
+ET - GL D. Syafa’atul Anbiya
+oke bang,
+Dindin Hernawan
+admin
+Hardisk 1 2 partisi primary dan 3 partisi buat simpan data dan hardisk 2 4 partisi data dan 1 primary nya ?
+ET - GL D. Syafa’atul Anbiya
+2P 1E 3L
+1E 4L 1P
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+2 P 1 E 3 L 1 E 4 L 1 P
+jawaban atas udah benar untuk penulisan silahkan formatnya P E L biar ngga bingun dan sesuai standar
+KPGLI - Gio Santos
+2 P 1E 3L?
+ET - GL Hrlnzyh
+2P 1E 3L, 1P 1E 4L gini?
+Dindin Hernawanadmin
+KPGLI - Gio Santos
+2 P 1E 3L?
+betul yang HDD 2 mas
+ET - GL Hrlnzyh
+2P 1E 3L, 1P 1E 4L gini?
+nah iya benar
+ET - GL Hrlnzyh
+Dindin Hernawan
+nah iya benar
+yap mantap
+Dindin Hernawan
+admin
+jadi catatan kecilnya adalah Primary hanya ada 4 di MBR dan Extended itu hanya ada jika partisi primary 1 - 3 dan logical itu ada kalau ada extended dibuatkan :)
+lanjut ya sekarang lah penjabarannya
+3.3.5
+Penamaan Partisi di Linux
+ET - GL Hrlnzyh
+Dindin Hernawan
+jadi catatan kecilnya adalah Primary hanya ada 4 di MBR dan Extended itu hanya ada jika partisi primary 1 - 3 dan logical itu ad
+kalo ada logical berarti harus ada extendednya
+Dindin Hernawanadmin
+53 KB
+mohon diperhatikan gambarnya ya
+ET - GL Hrlnzyh
+kalo ada logical berarti harus ada extendednya
+ya begitulah
+Pada Windows kita Mengenalnya Local Disk C:\ , D:\ dan seterusnya. Berbeda halnya
+dilinux dilinux Hardisk Sata Pertama sebagai master diberinama sda1 dan untuk nama hardisknya
+/dev/sda berbeda untuk hardisk kedua sebagai slave yaitu diberinama sdb1 untuk partisi primary
+pertama dalam hardisk tersebut. Dan hardisknya dibernama /dev/sdb. Lebih Lengkapnya cek
+gambar di bawah ini :
+catat ini dilinux Hardisk Sata Pertama sebagai master diberinama sda1 dan untuk nama hardisknya
+/dev/sda berbeda untuk hardisk kedua sebagai slave yaitu diberinama sdb1
+Dindin Hernawan
+14.png
+dari awal sudah dibahas pada materi maka untuk melihat gambar ini akan lebih paham bukan ?
+dan materi sudah selesai ternyata :)
+ET - GL Hrlnzyh
+Dindin Hernawan
+dari awal sudah dibahas pada materi maka untuk melihat gambar ini akan lebih paham bukan ?
+betul
+Dindin Hernawan
+admin
+sampai disini silahkan bertanya atau ada hal yang belum paham bnget silahkan dipertanyakan :)
+ET - GL Hrlnzyh
+menurut saya ini seru sih buat yang awam partisi partisian kaya saya, makasih ilmunya mas
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+menurut saya ini seru sih buat yang awam partisi partisian kaya saya, makasih ilmunya mas
+sama sama :) memang harus paham betul untuk mengurangi tindakan salah format dan tentunya bisa membuat installasi lebih flexybell jika dual booting
+ET - GL Hrlnzyh
+mantap lah
+Dindin Hernawan
+admin
+baiklah ternyata lewat 6 menit dan acara ini sudah waktunya di tutup. dari saya undur diri, selamat malam dan istirhat, wasalamu'alaikum wr. wb.
+ET - GL Hrlnzyh
+wallaikumsalam
+ET - GL D. Syafa’atul Anbiya
+waalaikum salam..
+terimakasih bang atas ilmunya.. :+1: :smiley:
+KPGLI - Gio Santos
+Selamat malam dan selamat istirahat
+Dindin Hernawan
+admin
+selanjutnya diskusi mengenai materi minggu 1 dan minggu 2
+<=== FINISH RECORD CHAT ===>
