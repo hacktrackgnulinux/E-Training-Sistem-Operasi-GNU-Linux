@@ -1,0 +1,102 @@
+Pertemuan 02/03
+Acara Akan Dimulai Hari Ini
+Jum'at 19 Maret 2021
+Pukul : 08:00 - 09:30 WIB Malam
+
+Persiapan yang harus disiapkan : 
+- Aktif Telegram
+- Aktifkan Laptop & Stay Online
+- Saling Menyapa
+- Diskusi Mengenai Laporan
+- Diskusi Sistem Operasi Materi yang sudah di sampaikan sebelumnya.
+
+Tujuan Pengumpulan Laporan :
+- Agar mengenal Operating Sistem yang digunakan saat ini.
+- Menambah analisa dan melatih mengenali sistem operasi secara
+  individual.
+- Melatih menggunkan aplikasi2 yang ada di operating sistem saat ini
+  dalam penyusunan laporan.
+- Melatih dalam melakukan kegiatan pengiriman data melalui e-mail.
+
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang kembali di
+Elektronik Training Sistem Operasi GNU/Linux. (ET - SOGL)
+
+Tujuan dari E-Training ini adalah :
+
+Tujuan Materi Minggu 2 
+4. Dengan mengikuti E-Training ini, member bisa mengatasi permasalahan
+   dalam menginstall sistem operasi secara baik dan benar. karena ada materi
+   yang akan membahas seluk beluk permasalahan dan dasar-dasar installasi.
+
+
+MATERI :
+<=== START RECORD CHAT ===>
+-------------------------------------------------------------------------------
+Materinya :
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk 2/1
+                  - Tabel Satuan Kapasitas Penyimpanan 2/1
+                  - Pengenalan Pemartisian 2/2
+                  - File System di Linux 2/3
+                  - Struktur Directory 2/3
+
+
+Pertemuan 02/01 
+1. Pengenalan Hardisk (Storages Devices) ?
+1.png
+2.png
+2. Tabel Satuan Kapasitas Penyimpanan ?
+3.png
+Pertemuan 02/02
+3. Pengenalan Pemartisian ?
+3.3 Pengenalan Pemartisian
+3.3.1 Tabel Partisi Hardisk
+3.3.1.1 Tabel Partisi MBR
+3.3.1.2 Tabel Partisi GPT
+3.3.1.3 Perbedaan Tabel Partisi MBR & GPT
+3.3.2 Penaaman Hardisk di Linux
+3.3.3 Tabel Penaman Hardisk di Linux
+3.3.4 Susunan Partisi Hardisk
+3.3.5 Penamaan Partisi di Linux
+Pertemuan 02/03 19 Maret 2021 08:00 - 09:30 WIB Malam
+4. File System Linux ?
+3.4 File System di Linux
+3.4.1 Ext2 (2 nd Extended)
+3.4.2 Ext3 (3 rd Extended)
+3.4.3 Ext4 (4 th Extended)
+3.4.4 Brtfs
+3.4.5 swap
+5. Struktur Directory ?
+3.5 Struktur Directory
+3.5.1 / (root)
+3.5.2 /bin
+3.5.3 /boot
+3.5.4 /dev
+3.5.5 /etc
+3.5.6 /home
+3.5.7 /lib
+3.5.8 /media
+3.5.9 /mnt
+3.5.10 /opt
+3.5.11 /proc
+3.5.12 /root
+3.5.13 /run
+3.5.14 /sbin
+3.5.15 /srv
+3.5.16 /sys
+3.5.17 /tmp
+3.5.18 /usr
+3.5.18.1 /usr/share
+3.5.18.2 /usr/share/doc
+3.5.18.3 /usr/src
+3.5.18.4 /usr/include
+3.5.18.5 /usr/local
+3.5.19 /var
+3.5.19.1 /var/log
+3.5.19.2 /var/mail
+3.5.19.3 /var/spool
+3.5.19.4 /var/run
+3.5.20 /lost+found
+-------------------------------------------------------------------------------
+<=== FINISH RECORD CHAT ===>
