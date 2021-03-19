@@ -1,0 +1,450 @@
+
+<=== START RECORD CHAT ===>
+Assalamu'alikum Wr. Wb.
+selamat malam semuanya dan selamat datang kembali di
+Elektronik Training Sistem Operasi GNU/Linux. (ET - OSGL)
+ET - GL M.Yais
+Waalaikumsalam
+ET - GL Fandi
+Waalaikumsalam wr.wb selamat malam mas
+ET - GL Fihan Dilan
+Waalaikumsalam Wr.Wb
+ET - GL Nanda Haya
+Waalaikumsallam
+KPGLI - Gio Santos
+Selamat malam
+Dindin Hernawan
+admin
+saya harap semua dalam keadaan sehat dan bersemangat. tak terasa sudah 17 hari berjalan acara e-training perdana ini. sampai pada tahap materi dasar sebagai syarat untuk mengikuti lebih dalam lagi. sekaligus ini materi terakhir yang disampaikan dan dengan ini pula laporan kedua dibuka untuk mendapatkan e-certifikat
+ET - GL M_R
+waalaikumsalam
+Dindin Hernawan
+admin
+apa kabar semuanya :) sebelum mulai materi alangkah baiknya saling menyapa
+ET - GL M.Yais
+Alhamdulillah baik
+ET - GL admiral Yudha
+Walaikumsalam
+Baik
+ET - GL Fandi
+Alhamdulillah mas
+ET - GL Fihan Dilan
+Dindin Hernawan
+apa kabar semuanya :) sebelum mulai materi alangkah baiknya saling menyapa
+Alhamdulillah baik bang
+Dindin Hernawan
+admin
+:) alhamdulillah, baiklah kita mulai materinya :
+Tujuan dari E-Training ini adalah :
+
+Tujuan Materi Minggu 2 
+4. Dengan mengikuti E-Training ini, member bisa mengatasi permasalahan
+   dalam menginstall sistem operasi secara baik dan benar. karena ada materi
+   yang akan membahas seluk beluk permasalahan dan dasar-dasar installasi.
+Materinya :
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk 2/1
+                  - Tabel Satuan Kapasitas Penyimpanan 2/1
+                  - Pengenalan Pemartisian 2/2
+                  - File System di Linux 2/3
+                  - Struktur Directory 2/3
+4. File System Linux ? mungkin beberapa disini sudah mengenal jenis file system linux ini , coba sebutkan salah satunya
+59 KB
+ET - GL Fajar Alfansyah
+Kurang tau mas saya pake windows:)
+ET - GL Fandi
+Ext4,ext3
+Dindin Hernawan
+admin
+3.4 File System di Linux
+Sistem file (file system) atau sistem berkas merupakan struktur logika yang
+digunakan untuk mengendalikan akses terhadap data yang ada pada disk. Dengan kata lain, sistem
+file merupakan database khusus untuk penyimpanan, pengelolaan, manipulasi dan pengambilan
+data, agar mudah ditemukan dan diakses.
+ET - GL Fandi
+Fat
+Dindin Hernawan
+admin
+Hubungan antara sistem operasi dengan sistem file adalah sistem file (file system)
+merupakan interface yang menghubungkan sistem operasi dengan disk. Ketika program
+menginginkan pembacaan dari hard disk atau media penyimpanan lainnya, sistem operasi akan
+meminta sistem file untuk mencari lokasi dari file yang diinginkan. Setelah file ditemukan, sistem
+file (file system) akan membuka dan membaca file tersebut, kemudian mengirimkan informasinya
+kepada sistem operasi dan akhirnya bisa dibaca oleh pengguna.
+Sistem operasi Linux mendukung banyak File System yang berbeda, tapi pilihan yang umum
+digunakan adalah keluarga Ext* (Ext2, Ext3 dan Ext4). Berikut sistem file yang umumnya
+digunakan pada sistem operasi Linux:
+ET - GL Fajar Alfansyah
+Kurang tau mas saya pake windows:)
+:) kalau diwindows NTFS
+ET - GL Fandi
+Fat
+FAT iya benar salah satu jenis file system tapi untuk benar2 bisa digunakan untuk installasi sistem linux adalah menggunakan jenis filesystem yang tentunya mendukung
+jadi dilinux kita umumnya mengenal file system keluarga Ext baik itu Ext2 (sangat tua ) Ext3 & Ext4 (Umumnya digunakan)
+nah apa itu Ext ?
+78 KB
+Ext itu singkatan dari Extended
+3.4.1
+Ext2 (2 nd Extended)
+Ext2 merupakan jenis sistem file Linux paling tua yang masih ada. Sistem file ini pertama
+kali dikenalkan pada Januari 1993. File system ini ditulis oleh Rémy Card, Theodore T. dan Stephen
+Tweedie. File system ini merupakan penulisan ulang besar-besaran dari Extended file system. Ext2
+adalah sistem file yang paling ampuh di Linux dan menjadi dasar dari segala distribusi linux.
+36 KB
+3.4.2
+Ext3 (3 rd Extended)
+Ext3 adalah peningkatan dari sistem file Ext2. Peningkatan ini memiliki beberapa
+keuntungan, diantaranya:
+Ext3 merupakan suatu journalled file system, journalled file system didesain untuk
+membantu melindungi data yang ada di dalamnya. Dengan adanya journalled filesystem, maka kita
+tidak perlu lagi untuk melakukan pengecekan kekonsistensian data, yang akan memakan waktu
+sangat lama bagi harddisk yang berkapasitas besar.
+Ext3 adalah suatu filesystem yang dikembangkan untuk digunakan pada sistem operasi
+Linux. Ext3 merupakan hasil perbaikan dari Ext2 ke dalam bentuk Ext2 yang lebih baik dengan
+menambahkan berbagai macam keunggulan.
+Ext3 pengembangan dari sebelumnya dari Versi Ext2
+dan Ext4 pengembangan juga dari Ext3
+3.4.3
+Ext4 (4 th Extended)
+Ext4 merupakan peningkatan dari sistem file Ext3. Ext4 dirilis secara lengkap dan stabil
+mulai dari kernel 2.6.28. Keuntungan menggunakan Ext4 adalah mempunyai pengalamatan 48-bit
+blok yang artinya dia akan mempunyai 1 EiB = 1.048.576 TB. Ukuran maksimum sistem file 16
+TB.
+Ext4 dirilis secara komplit dan stabil berawal dari kernel 2.6.28 jadi apabila distro anda yang
+secara default memiliki versi kernel tersebuat atau di atas nya otomatis system anda sudah support
+Ext4 (dengan catatan sudah di include kedalam kernelnya) selain itu versi e2fsprogs harus
+mengunakan versi 1.41.5 atau lebih.
+35 KB
+nah jadi filesystem itu ternyata ada batasannya loh!
+sebagai contoh pada FAT32 ? Tidak bisa menyimpan file lebih besar dari 4GB Loh ada yang pernah coba ? kalau NTFS sudah bisa
+maka dari itu kalau pengguna windows sebaiknya memformat flasfdisknya dengan tipe NTFS :) jika suatu saat nanti ada data yang besar kapasitasnya
+sampai sini ada yang mau bertanya atau menyampaikan lebih lagi mengenai materinya ?
+baiklah sepertinya sudah paham ya semunya :)
+kita lanjutkan materinya
+ET - GL admiral Yudha
+Dindin Hernawan
+sebagai contoh pada FAT32 ? Tidak bisa menyimpan file lebih besar dari 4GB Loh ada yang pernah coba ? kalau NTFS sudah bisa
+Sudah kak, single file diatas 4gb gak bisa
+Dindin Hernawan
+admin
+selanjutnya ada jenis lain selain Ext yaitu BRTFS
+3.4.4
+Brtfs
+Btrfs adalah file sistem Linux yang masih dalam pengembangan. Hal ini tidak menjadi
+default pada kebanyakan distribusi Linux pada saat ini, tapi mungkin akan menggantikan Ext4 satu
+hari nanti. Tujuannya adalah untuk menyediakan fitur tambahan yang memungkinkan Linux untuk
+skala jumlah penyimpanan yang lebih besar.
+B-Tree File System (BTRFS), kadang singkatan ini juga diucapkan BuTteR FS atau BeTteR
+FS merupakan sebuah file system di bawah lisensi General Public License (GPL). Chris Mason,
+Direktur Linux Kernel Engineering di Oracle, merupakan “bapak” dari BTRFS yang pertama kali
+memulai pembuatan file system yang salah satu fiturnya adalah memaintain checksum dari seluruh
+file
+data
+dan
+metadata
+ini.
+38 KB
+Catatnnya : BRTFS Tujuannya adalah untuk menyediakan fitur tambahan yang memungkinkan Linux untuk
+skala jumlah penyimpanan yang lebih besar.
+yang paling banyak digunakan oleh semua distribusi jenis file system linux adalah Ext3 dan Ext4.
+nah untuk materi jenis file system yang ada dilinux yang paling dikenal telah disampaikan dan untuk jenis lainnya bisa kunjungi wikipedia :) ada yang mau bertanya sebelum lanjut bab materi selanjutnya ?
+ET - GL Fihan Dilan
+apa sudah distro linux saat ini yang menggunakan BTRFS?
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+apa sudah distro linux saat ini yang menggunakan BTRFS?
+hampir semua sudah menerapkannya sebagai contoh keturunan ubuntu dalam menu installasinya
+ET - GL Fihan Dilan
+Dindin Hernawan
+hampir semua sudah menerapkannya sebagai contoh keturunan ubuntu dalam menu installasinya
+jadi meskipun masih dalam devepoment tapi sudah banyak yang menggunakannya ya?
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+jadi meskipun masih dalam devepoment tapi sudah banyak yang menggunakannya ya?
+ya begitulah seperti masa Ext2 > Ext3 dan Ext4 semuanya menyesuaikan dengan kapasitasnya
+seperti kasus FAT32 tidak bisa save single file lebih dari 4gb diperbaharui NTFS
+dan satu lagi nih yang selalu mendapatkan perdebatan umumnya dalam kalangan linux yaitu Swap :)
+3.4.5
+swap
+Swap adalah sebuah ruang pada harddisk yang dijadikan ruang virtual memory yang
+digunakan ketika komputer/laptop membutuhkan lebih banyak memory. Dalam artian partisi
+dengan filesystem Swap ini bekerja sebagai cadangan , apabila RAM yang digunakan penuh. Jadi
+sederhaana nya , Swap ini akan memberi pertolongan jika RAM yang kita kehabisan ruang kosong.
+21 KB
+ET - GL admiral Yudha
+Dindin Hernawan
+seperti kasus FAT32 tidak bisa save single file lebih dari 4gb diperbaharui NTFS
+Fat 32 banyak di pake di memori flash contohnya flashdisk, tapi flashdisk dengan kapasitas besar sekarang pake exFAT
+ET - GL Fihan Dilan
+Dindin Hernawan
+3.4.5 swap Swap adalah sebuah ruang pada harddisk yang dijadikan ruang virtual memory yang digunakan ketika komputer/laptop memb
+ukuran swab yang ideal itu berapa bang? apa ada penyesuaianya terhadap RAM?
+Dindin Hernawan
+admin
+nah ada tips mengenai swap ini ? silahkan disampaikan
+ET - GL admiral Yudha
+Fat 32 banyak di pake di memori flash contohnya flashdisk, tapi flashdisk dengan kapasitas besar sekarang pake exFAT
+:+1:
+ET - GL admiral Yudha
+Dindin Hernawan
+nah ada tips mengenai swap ini ? silahkan disampaikan
+Setau saya 2x ukuran ram, tapi kalo PC kapasitas ram besar misalkan server gitu swap nya gimana ?
+Dindin Hernawanadmin
+ET - GL admiral Yudha
+Setau saya 2x ukuran ram, tapi kalo PC kapasitas ram besar misalkan server gitu swap nya gimana ?
+dalam hal swap tentunya berbeda2 salah satu pendapat 2x ram memang benar. tapi untuk pc dengan ram besar misalkan server disesuaikan lagi kepada seberapa besar aplikasi yang di jalankan sehingga dibutuhkannya memory tambahan sebagai antisipasi terjadinya down. RAM pada server tentunya sangat berbeda dengan RAM pada komponen Desktop sepenaglaman saya ram server tidak bisa digunakan untuk desktop karena menggunakan jenis ram yang berbeda yaitu  RAM ECC dan RAM Non ECC
+ET - GL admiral Yudha
+Setau saya 2x ukuran ram, tapi kalo PC kapasitas ram besar misalkan server gitu swap nya gimana ?
+untuk swap menurut saya di tentukan dari 1 kapasitas ram yang terpasang
+ET - GL admiral Yudha
+Misalkan PC saya 32gb ram nya, ideal nya swap berapa ?
+Dindin Hernawanadmin
+ET - GL admiral Yudha
+Misalkan PC saya 32gb ram nya, ideal nya swap berapa ?
+jika ram single 1 slot menurut saya jangan terlalubanyak siapkan sesuai kebutuhan. kalau untuk keseharian 2-4gb kalau suka game dan multi tambahakan 4-8gb
+kita lanjutkan materi selanjutnya ya
+ET - GL admiral Yudha
+Baik
+ET - GL Fihan Dilan
+Dindin Hernawan
+jika ram single 1 slot menurut saya jangan terlalubanyak siapkan sesuai kebutuhan. kalau untuk keseharian 2-4gb kalau suka game
+kalau di saya swapnya 2gb itu pun yang terpakai cuma 0.1 - 0,2 % jarang terpakai sampai 5% atau 10%
+Dindin Hernawan
+admin
+3.5 Struktur Directory
+ET - GL Fihan Dilan
+Dindin Hernawan
+kita lanjutkan materi selanjutnya ya
+lanjut bang
+Dindin Hernawanadmin
+ET - GL Fihan Dilan
+kalau di saya swapnya 2gb itu pun yang terpakai cuma 0.1 - 0,2 % jarang terpakai sampai 5% atau 10%
+:+1:
+67 KB
+Di dalam Linux, menggunakan filesystem dimana directory akan tersusun ke dalam hirarkis
+tunggal. Berbeda dengan struktur di windows dimana susunan directory ditentukan dengan kondisi
+partisi dan harddisk.
+Bentuk drive di windows merupakan representasi dari partisi dimana huruf C diberikan
+untuk partisi pertama di harddisk pertama. Di Linux tidak mengenal konsep drive. Berbagai macam
+partisi dapat di mount kedalam direktori yang berada di dalah struktur direktori linux.
+Di Windows, untuk menunjukkan lokasi sebuah file, kita menuliskan seperti ini;
+D:\Folder\tempat\menyimpan\file.txt
+DI lingkungan Linux, untuk menunjukkan sebuah lokasi file, berupa seperti berikut;
+$ /Folder/tempat/menyimpan/file.txt
+Dari kedua perbedaan diatas, kita dapat mudah melihat perbedaan penggunaan slash di
+Linux versus backslashes di Windows. Dan juga tidak adanya nama drive (C:, D:, E: dll).
+Dindin Hernawan
+21.png
+diperhatikan ya
+catatan
+Dari kedua perbedaan diatas, kita dapat mudah melihat perbedaan penggunaan slash di
+Linux versus backslashes di Windows. Dan juga tidak adanya nama drive (C:, D:, E: dll).
+33 KB
+Perlu juga diingat bahwa penamaan file dan direktori di Linux adalah case-sensitive,
+yaitu huruf besar dan huruf kecil merupakan karakter yang berbeda.
+/Folder/tempat/file.txt
+beda dengan
+/folder/Tempat/file.TXT
+Struktur direktori Linux mengikuti standart “Filesystem Hierarchy Structure (FHS)” yang di
+pegang oleh Free Software Foundation, walaupun kebanyakan distribusi GNU/Linux (distro)
+memodifikasi standart tersebut.
+Dibawah ini Stuktur File Sistem Directory dari Xenta OS, Uraian keguanaan atau fungsi
+foldernya dijelaskan :
+nah kalau di windows kira kira file sistemnya isinya C:\ ada berkas Program Files ada WIndows dan lain sebagainya
+loh ko beda ? ya emang beda karena beda sistem operasinya
+sebagai gambaran kalau kita mau buka berkas2 apa saja yang di install bisa kunjungi C:\Program Files\ untuk windows kalau linux ada yang tau ?
+ET - GL Hrlnzyh
+Dindin Hernawan
+loh ko beda ? ya emang beda karena beda sistem operasinya
+hahaha simpel
+ET - GL Fihan Dilan
+Dindin Hernawan
+sebagai gambaran kalau kita mau buka berkas2 apa saja yang di install bisa kunjungi C:\Program Files\ untuk windows kalau linux
+di /opt/ bang?
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+hahaha simpel
+iya kesan pertama suka gitu kaget nyari nyari
+ET - GL Fihan Dilan
+di /opt/ bang?
+Direktori /opt saat ini jarang digunakan. Beberapa paket software terpisah menggunakan
+direktori ini untuk menyimpan paket yang tidak menuju ke lokasi manapun. Untuk memudahkan
+mengingat, direktori ini dianggap kependekan dari 'optional'
+ET - GL D. Syafa’atul Anbiya
+/usr/bin?
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+/usr/bin?
+tepat tapi kurang tepat sedikit :)
+ET - GL D. Syafa’atul Anbiya
+/usr/share
+KPGLI - Gio Santos
+/usr/shared/
+ET - GL Fihan Dilan
+Dindin Hernawan
+Direktori /opt saat ini jarang digunakan. Beberapa paket software terpisah menggunakan direktori ini untuk menyimpan paket yang
+ow begitu, soalnya instalasi lampp saya terpasang disitu
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+/usr/share
+kurang tepat sikit
+KPGLI - Gio Santos
+/usr/shared/
+kurang tepat sikit
+ET - GL D. Syafa’atul Anbiya
+/usr/share/bin
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+/usr/share/bin
+betul tapi kurang global
+ET - GL M.Yais
+snap/bin
+Dindin Hernawanadmin
+ET - GL M.Yais
+snap/bin
+kalau ini spesifik
+Dindin Hernawan
+sebagai gambaran kalau kita mau buka berkas2 apa saja yang di install bisa kunjungi C:\Program Files\ untuk windows kalau linux
+perhatikan sample dari windows ini
+ET - GL Hrlnzyh
+var/www
+Dindin Hernawan
+admin
+jadi jawabnya semua benar cuma kurang global jawabnya adalah /usr/ nah setelah /usr/ .... ini semua adalah bagiannya
+ET - GL Hrlnzyh
+var/www
+:)
+ET - GL Hrlnzyh
+Dindin Hernawan
+:)
+jauh sekali
+Dindin Hernawan
+admin
+usr
+Sebuah sub-hirarki dari root filesistem di simpan didalam /usr. Didalam /usr tersimpan
+aplikasi dan utiliti yang spesifik dengan user.
+Jika kita melihat kedalam direktori /usr maka kita juga akan menemukan direktori yang
+mirip dengan di / yaitu bin, sbin dan lib. Hanya saja, aplikasi dan librari yang terletak /usr tidak
+terlalu kritikal untuk sistem.
+Untuk istilah mudahnya, /usr merupakan tempat dimana user menginstall aplikasi sendiri
+yang bukan official dari distro. Misalkan menginstall melalui tar-ball, atau paket yang dibuat
+sendiri.
+Jika pengguna termasuk orang yang sering menambah-nambah aplikasi sendiri diluar
+bawaan paket yang disediakan untuk distro itu, maka direktori /usr sudah dipastikan akan cepat
+sekali membengkak. Ada baiknya untuk sistem yang penggunanya seperti itu, /usr di berikan partisi
+sendiri.
+Untuk aplikasi yang bisa langsung dijalankan, sistem linux akan membaca secara bersamaan
+yang ada di /bin dan di /usr/bin begitu juga untuk /sbin dan /usr/sbin. Untuk memudahkan
+mengingat, direktori ini dianggap kependekan dari 'user'.
+singkatnya begini /usr/ adalah Program FIlesnya di Linux
+sampai sini ada yang bisa membedakan antara / dan /root ?
+ET - GL Hrlnzyh
+'user'?
+KPGLI - Gio Santos
+/ user /root-> admin
+Dindin Hernawanadmin
+ET - GL Hrlnzyh
+'user'?
+mendekati salah satunya
+KPGLI - Gio Santos
+/ user /root-> admin
+mendkeati
+ET - GL Hrlnzyh
+sama aja maybe
+ET - GL D. Syafa’atul Anbiya
+/root untuk direktori user root, kalau / itu puncak direktori di linux
+KPGLI - Gio Santos
+Sudo dan root
+ET - GL D. Syafa’atul Anbiya
+kalau user biasa di /home
+KPGLI - Gio Santos
+/User biasa /root user root
+Dindin Hernawan
+admin
+betul sekali semua jawabnnya mendekati saya rangkum dari semua jawabbnya. jadi / ini adalah titik puncak dari file system linuxnya suka disebut (root) kalau / + root = /root dan folder 'root' adalah folder yang dimiliki user root.
+kalau installasi kita suka menambahkan Titik Kait untuk sintallasinya setelah file sistem di format ext3 yaitu titik kaitnya / untuk file sistem
+ET - GL Hrlnzyh
+Dindin Hernawan
+betul sekali semua jawabnnya mendekati saya rangkum dari semua jawabbnya. jadi / ini adalah titik puncak dari file system linuxn
+singkatnya kalo / + root = folder root
+paham paham
+Dindin Hernawan
+admin
+berbeda dengan windows untuk partisi
+dilinux partisi ada di titik /dev/sda1 /dev/sda2 dst
+ada di /dev/
+pelajran sebelumnya jadi menyambung bukan
+ET - GL Hrlnzyh
+Dindin Hernawan
+pelajran sebelumnya jadi menyambung bukan
+betul mas
+Dindin Hernawan
+admin
+nah sampai sini saya sarankan mempelajari setiap folder yang ada di linux (mengenal apa fungsinya)
+ET - GL Fihan Dilan
+siap bang
+Dindin Hernawan
+admin
+yang sering adalah /usr/ /media/ (kalau dilnux melihat partisi lain yang tersambung) /home/ kalau ini berkas setiap user yang ada di sitem tersebut dan ini sangat bagus
+jadi kalau mau aman pada waktu installasi 2 partisi ext4 1 titikkaitkan ke / dan yang partisi kedua ke /home/ tujuannya adalah jika partisi 1 crash (sistem) maka data2 user aman
+ET - GL Hrlnzyh
+Dindin Hernawan
+jadi kalau mau aman pada waktu installasi 2 partisi ext4 1 titikkaitkan ke / dan yang partisi kedua ke /home/ tujuannya adalah j
+hmm paham mas
+Dindin Hernawan
+admin
+pengalaman seperti itu sampai sekarang
+ET - GL D. Syafa’atul Anbiya
+Dindin Hernawan
+jadi kalau mau aman pada waktu installasi 2 partisi ext4 1 titikkaitkan ke / dan yang partisi kedua ke /home/ tujuannya adalah j
+mas kalau untuk data web, di /var/www itu gmna
+ kalau sistem crash
+Dindin Hernawan
+admin
+alhamdulillah, materinya sudah selesai kurang lebih saya mohon maaf  apabila ada perkataan dan typo dalam penulisan .
+ET - GL Fihan Dilan
+Dindin Hernawan
+jadi kalau mau aman pada waktu installasi 2 partisi ext4 1 titikkaitkan ke / dan yang partisi kedua ke /home/ tujuannya adalah j
+paham bang
+ET - GL admiral Yudha
+Dindin Hernawan
+alhamdulillah, materinya sudah selesai kurang lebih saya mohon maaf apabila ada perkataan dan typo dalam penulisan .
+Baik bang
+Dindin Hernawanadmin
+ET - GL D. Syafa’atul Anbiya
+mas kalau untuk data web, di /var/www itu gmna kalau sistem crash
+sama buat partisi 3 1 lagi titik kait ke /var/
+selanjutnya sesi tanya jawab ya .. dibuka
+ET - GL D. Syafa’atul Anbiya
+Dindin Hernawan
+sama buat partisi 3 1 lagi titik kait ke /var/
+ohh oke bang
+ET - GL Hrlnzyh
+Dindin Hernawan
+selanjutnya sesi tanya jawab ya .. dibuka
+wado
+Dindin Hernawan
+admin
+selanjutnya adalah unik? karena laporan 2 batas waktunya spesifik jadi kalau udah mengirimkan e-certifikat diberikan
+EOF MATERI
+ET - GL Hrlnzyh
+Dindin Hernawan
+selanjutnya adalah unik? karena laporan 2 batas waktunya spesifik jadi kalau udah mengirimkan e-certifikat diberikan
+wahh siap mas
+Dindin Hernawan
+admin
+Akhirkata materi saya tutup, Semangat semuanya :) Wasalamu'alaikum Wr. Wb.
+ET - GL Hrlnzyh
+wallaikumsalam
+ET - GL admiral Yudha
+Walaikumsalam
+ET - GL M.Yais
+waalaikumsalam
+ET - GL Risa
+Waalaikumsalam
+ET - GL Fihan Dilan
+Dindin Hernawan
+Akhirkata materi saya tutup, Semangat semuanya :) Wasalamu'alaikum Wr. Wb.
+waalikumsalam, terimakasih bang :)
+Dindin Hernawanadmin
+<=== FINISH RECORD CHAT ===>

@@ -1,0 +1,34 @@
+03  Pengambilan E-Certifikat
+    Materi : Pengetahuan Umum Installasi
+             - Pengenalan Hardisk
+                  Tabel Satuan Kapasitas Penyimpanan
+                  Pengenalan Pemartisian
+                  File System di Linux
+                  Struktur Directory
+
+    Tugas : Membuat Laporan Mengenai Pengetahuan Umum Installasi yang dikerjakan.
+            Sample : Laporan Pengetahuan Umum Installasi (Contohnya Isinya Mengenai GPT, MBR 
+            dan Informasinya Yang Terkait)
+            
+            Minimal 2 Halaman (Judul & Pembahasan) Format Bebas. (.txt .pdf .odt .md dll)
+            Dikirimkan Via E-Mail 'dindin_hernawan@yahoo.com'
+            Subject E-Mail 'Laporan Pengetahuan Umum Installasi'
+			Pada Isi Pesan E-Mail Cantumkan Username Telegramnya
+-------------
+Format Laporan 2 Minggu 2
+
+Laporan [JUDUL]
+Dibuat Oleh : [NAMA]
+
+
+Digunakan Untuk Memenuhi Persyaratan dalam E-Certifikat ET-OSGL
+pada E-Training Sistem Operasi GNU/Linux
+
+
+ISI
+
+
+Kesan dan Pesan :
+[ISI KESAN DAN PESAN]
+
+-------------
