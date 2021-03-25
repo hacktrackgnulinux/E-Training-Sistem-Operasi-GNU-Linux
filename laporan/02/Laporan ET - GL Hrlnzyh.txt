@@ -1,0 +1,102 @@
+Laporan : Pengetahuan umum instalasi Linux
+Dibuat : Muhammad Rizky Herliansyah
+
+Digunakan Untuk Memenuhi Persyaratan dalam E-Certifikat ET-OSGL
+pada E-Training Sistem Operasi GNU/Linux
+
+<~ |||| ~>
+Recapitulation / Rangkuman 
+
+what is the operating system? 
+sistem operasi adalah perangkat lunak.
+yang mengatur sumber daya perangkat dan perangkat lunak
+(software & hardware).
+ 
+Pengetahuan instalasi.
+-Hardisk ATA / IDE
+ adalah interface standar yang menghubungkan penyimpanan kepada komputer
+
+-Hardisk SATA
+ adalah bus primer yang untuk mentransfer data antara motherboard dan penyimpanan data.
+    
+keduanya berkesinambungan untuk Instalasi sebuah.
+
+Pengenalan pemartisian
+partisi dapat dikatakan sebagai bagian dari suatu memori atau media penyimpanan lain yang terpisah dan berfungsi seolah olah bagian itu terpisah secara fisik
+
+Tabel partisi hardisk
+-Table Partisi MBR
+-Table Partisi GPT
+
+
+Penaaman Hardisk di Linux
+pada linux hardisk SATA diberi nama dengan
+sda sebagai hardisk pada SATA 1 (master)
+sdb sebagai hardisk pada SATA 2 (slave)
+
+contoh: 
+Ada 2 hardisk yang dimana 
+hardisk 1 memiliki 2 partisi
+dan hardisk 2 memiliki 4 partisi
+
+maka hasilnya :
+sda1 sda2
+sdb1 sdb2 sdb3 sdb4
+
+Berbeda dengan jenis hardisk IDE/ATA
+pada linux Hardisk IDE/ATA diberi nama dengan
+hda sebagai hardisk pada IDE 1 (master)
+hdb sebagai hardisk pada IDE 2 (slave)
+
+
+contoh : 
+Ada 3 hardisk yang dimana
+hardisk 1 memiliki 3 partisi
+hardisk 2 memiliki 2 partisi
+hardisk 3 memiliki 3 partisi
+
+maka hasilnya :
+hda1 hda2 hda3
+hdb1 hdb2
+hdc1 hdc2 hdc3
+
+1 contoh lagi 
+hardisk 1 IDE slave 4 patisi
+hardisk 2 SATA master 2 partisi
+hardisk 3 IDE master 2 partisi
+hardisk 4 SATA slave 4 partisi
+ 
+ maka hasilnya :
+hda1 hda2 
+hdb1 hdb2 hdb3 hdb 4
+sda1 sda2
+sdb1 sdb2 sdb3 sdb4
+
+dan rumusnya 
+CdXY
+X = urutan hdd, misal sda,sdb,sdc
+Y = urutan partisi, misal sda1,sda2
+
+C =
+s untuk SATA
+h untuk IDE
+
+mungkin cukup sekian laporan pengetahuan umum dari saya
+ 
+ 
+Kesan dan Pesan :
+menurut saya ET-OSGSL mas dindin merupakan edukasi bagus buat semua orang
+terutama saya yang semasa gak diajarkan tentang instalasi hardisk motherboard dan lain lain
+hanya berfokus pada merakit komponen saja, namun adanya e-training ini saya dapat ilmu mengenai hardisk
+dan partisi partisi lain yang menurut saya ini berguna untuk saya yang keseharian menggunakan pc.
+dan juga mas dindin orang yang menurut saya keren, yang dimana ia memberi ilmu dengan sabar, secara diskusi
+dan lain lain, sehingga audience seperti saya dapat menangkap semua informasi dengan matang, yang mungkin saya 
+juga akan membagikan ilmu ini kedepannya :)
+
+pesan saya
+ semoga dengan adanya E-training ini kita semua mendapat ilmu secara berkah terutama mas dindin yang membagi
+ informasinya :)
+ 
+sekian
+jika saya ada salah, atau kekurangan kasi tau ya mas.
+-respect mas dindin
