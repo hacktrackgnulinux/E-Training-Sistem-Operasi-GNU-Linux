@@ -1,4 +1,5 @@
-KPGLI - Dindin Hernawan
+HTGL - Dindin Hernawan
+HTGL - Ali Akbar
 KPGLI - Firman Fathoni
 KPGLI - Gio Santos
 ET - GL Michael
@@ -51,9 +52,9 @@ ET - GL Rizki Andrianto
 ET - GL Muhammad Lucky NF
 ET - GL Euna.
 ET - GL Angga Pratama
+ET - GL Akbar
 Aswar Sumarlin
 Novan AR
-ET - GL Akbar
 Mr.B Relax
 Zuryour bae
 S A F
@@ -62,4 +63,3 @@ You
 re:Fikri
 Ahwan Ahmadi
 Alfian Ananda Putra
-HTGL - Ali Akbar
