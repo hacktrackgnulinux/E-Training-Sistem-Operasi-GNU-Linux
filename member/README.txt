@@ -50,6 +50,7 @@ ET - GL Firman
 ET - GL Rizki Andrianto
 ET - GL Muhammad Lucky NF
 ET - GL Euna.
+ET - GL Angga Pratama
 Aswar Sumarlin
 Novan AR
 ET - GL Akbar
