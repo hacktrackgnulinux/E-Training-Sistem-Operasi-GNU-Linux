@@ -1,5 +1,7 @@
 # E-Training Sistem Operasi GNU/Linux [Free]
+![Alt text](https://www.hacktracklinux.org/assets/img/training-hacktrack.png "training-hacktrack")
 [ET - GL] E-Training Sistem Operasi GNU/Linux (Free)  
+Free Electronic Training GNU/Linux Operating System, is a forum for conducting research, exploration and information gathering in virtual training. This program aims to introduce and train how and how information is processed. To get this certificate you have to make a report intellectually.  
 
 PRIVATE
 Pemateri  : Dindin Hernawan  
