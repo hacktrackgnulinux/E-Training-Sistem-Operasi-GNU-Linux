@@ -11,8 +11,8 @@ pub   1024R/959CDDD1 2017-07-27
 uid                  Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  
 sub   1024R/B93D20D1 2017-07-27  
 
-pub   rsa4096 2022-11-08 [SC]
-      3611 98B1 DB2E F9EA 0116  DC4B B6D2 85F1 D105 63A0
-uid           [ultimate] HackTrack Team (HackTrack) <team@hacktracklinux.org>
-sub   rsa4096 2022-11-08 [E]
+pub   rsa4096 2022-11-08 [SC]  
+      3611 98B1 DB2E F9EA 0116  DC4B B6D2 85F1 D105 63A0  
+uid           [ultimate] HackTrack Team (HackTrack) <team@hacktracklinux.org>  
+sub   rsa4096 2022-11-08 [E]  
 
