@@ -1,0 +1,30 @@
+ _____ _____      ___  ____   ____ _  								   [Page 1]   
+| ____|_   _|    / _ \/ ___| / ___| |    
+|  _|   | |_____| | | \___ \| |  _| |            Supported :
+| |___  | |_____| |_| |___) | |_| | |___              - KPGLI 
+|_____| |_|      \___/|____/ \____|_____|             - Xenta OS Linux
+      'E-Training Operating System GNU/Linux'
+ Delivered by <<Hack|Track GNU/Linux collaboration Xenta OS Linux
+ https://github.com/hacktrackgnulinux/E-Training-Sistem-Operasi-GNU-Linux/
+
+
+         E - C E R T I F I C A T E   of   A T T E N D A N C E
+                       ET-OSGL/0x0001/2022/+0700/                           
+- -----------------------------------------------------------------------------
+
+                         This Certifies that :
+                          ABDUL HARIS AHADA
+
+Has attended the following E-Training Operating System GNU/Linux Delivered by 
+<<Hack|Track GNU/Linux :
+[History of Studying Linux Systems & Getting Started with Installation Basics]
+
+
+That was private originally held on :
+03 Des 2022 - 05 Des 2022 20:00:00 +0700 
+
+Digital signature by :
+HackTrack Team (HackTrack) <team@hacktracklinux.org>
+Key fingerprint :
+3611 98B1 DB2E F9EA 0116  DC4B B6D2 85F1 D105 63A0
+- -----------------------------------------------------------------------------
