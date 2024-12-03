@@ -17,7 +17,7 @@ Acara     : 2 Minggu dengan 6x Pertemuan
 Biaya     : Gratis  
 Status    : Closed
 
-Validator Key 2017-Present
+Validator Key 2017-Present  
 pub   1024R/959CDDD1 2017-07-27  
       Key fingerprint = 707E C01E AC3C 2F7F 8723  30CB 4EDB 0BF7 959C DDD1  
 uid                  Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  
