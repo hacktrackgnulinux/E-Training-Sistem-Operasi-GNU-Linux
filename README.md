@@ -20,10 +20,10 @@ Biaya     : Gratis
 Status    : Open
 
 Validator Key 2025-Present  
-pub   rsa2048 2025-01-01 [SC]
-      51EB 3C07 8FDC 6139 6CB8  53E3 FE74 E903 D27F E29F
-uid           [ultimate] Dindin Hernawan <dindin_hernawan@yahoo.com>
-sub   rsa2048 2025-01-01 [E]
+pub   rsa2048 2025-01-01 [SC]  
+      51EB 3C07 8FDC 6139 6CB8  53E3 FE74 E903 D27F E29F  
+uid           [ultimate] Dindin Hernawan <dindin_hernawan@yahoo.com>  
+sub   rsa2048 2025-01-01 [E]  
 
 Validator Key 2017-2025  
 pub   1024R/959CDDD1 2017-07-27  
